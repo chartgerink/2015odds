@@ -57,13 +57,13 @@ statcheck <- function(
                            relat[a-z]{1,})\\s(with|to)\\s[a-z]{1,}", resContext, ignore.case = TRUE)
     
     # Odds ratio
-    locator_or <- gregexpr("(odds ratio.*|or.*?)[<>=]", resContext, ignore.case = TRUE)
+    locator_or <- gregexpr("(odds ratio.*|or.*?).*?[<>=]", resContext, ignore.case = TRUE)
     
     # Confidence interval
     locator_ci <- gregexpr("[0-9]{2}\\%.*?(confidence interval.*|ci.*?)[=:;].*?([0-9]{1,}?[.]?[0-9]{1,}.*?[0-9]{1,}?[.]?[0-9]{1,})", resContext, ignore.case = TRUE)
     
     # P-value (if present)
-    locator_p <- gregexpr("p.?[<>=]", resContext, ignore.case = TRUE)
+    locator_p <- gregexpr("p.*?[<>=]", resContext, ignore.case = TRUE)
     
     for (j in 1:length(resContext)){
       # extract data from each context with use of locators
@@ -125,8 +125,7 @@ statcheck <- function(
   
   
   # data frame
-  Res <- data.frame(Source = names(x),
-                    raw_result = raw_result,
+  Res <- data.frame(raw_result = raw_result,
                     genotype = genotype,
                     snp = snp,
                     dv = dv,
