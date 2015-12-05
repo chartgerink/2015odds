@@ -1,5 +1,3 @@
-"raw_result","genotype","snp","dv","or_comparison","or_result","ci_confidence","ci_lb","ci_ub","p_comparison","p_result","p_recalc","test_stat_recalc","se_recalc"
-"Genotype TT of SNP rs4402960 within the gene IGF2BP2 was associated with overweight
-(odds ratio (OR) = 0.479, 95% confidence interval (CI): 0.316-0.724, p = 0.001","TT","rs4402960","overweight","=",0.479,95,0.316,0.724,"=",0.479,4.18307941008354e-06,4.60207229703277,0.104083545212629
-"genotype CA of SNP rs1801131 within the
-gene MTHFR was associated with hypertension (OR = 1.560, 95% CI: 1.194–2.240, p = 0.001","CA","rs1801131","hypertension","=",1.56,95,1.194,2.24,"=",1.56,5.03037867084962e-09,5.84616408390532,0.266841637971594
+"genotype","snp","dv","or_comparison","or_result","ci_confidence","ci_lb","ci_ub","p_comparison","p_result","p_recalc","test_stat_recalc","se_recalc"
+"TT","rs4402960","overweight","=",0.479,95,0.316,0.724,"=",0.479,4.18307941008354e-06,4.60207229703277,0.104083545212629
+"CA","rs1801131","hypertension","=",1.56,95,1.194,2.24,"=",1.56,5.03037867084962e-09,5.84616408390532,0.266841637971594

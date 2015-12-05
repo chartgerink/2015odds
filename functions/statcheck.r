@@ -33,7 +33,7 @@ statcheck <- function(
     txt <- x[i]
     
     # identify sequence of results and extract their text
-    resLoc <- gregexpr("(genotype).*?rs[0-9]{1,10}.*?(associate|relate|correlate)(d)?\\s(with|to).*?(odds\\sratio|\\(?OR\\)?).*?[0-9]{2}\\%\\s(confidence\\sinterval|\\(?ci\\)?).*?(p.*?\\s?[0-9]?.[0-9]{1,5})",
+    resLoc <- gregexpr("(genotype).*?rs[0-9]{1,10}.*?(associate|relate|correlate)[a-z]{1,}?\\s(with|to).*?(odds\\sratio|\\(?OR\\)?).*?[0-9]{2}\\%\\s(confidence\\sinterval|\\(?ci\\)?).*?(p.*?\\s?[0-9]?.[0-9]{1,5})",
                        txt,
                        ignore.case = TRUE)[[1]]
     resContext <- substring(txt,
@@ -70,7 +70,7 @@ statcheck <- function(
       # genotype
       genotype_ind <- substr(resContext[[j]], locator_genotype[[j]] + 10 - 1, locator_genotype[[j]] + 10)
       # SNP
-      snp_temp <- str_match_all(resContext[[j]],
+      snp_temp <- stringr::str_match_all(resContext[[j]],
                                 "\\srs[0-9]{1,10}\\s")[[1]][1]
       snp_ind <- gsub(pattern = "\\s", x = snp_temp, replacement = "")
       # DV
