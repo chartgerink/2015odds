@@ -1,0 +1,284 @@
+"Prediction Models
+1,111 patients were evaluated from the SPRINT-2, RESPOND-2 and PROVIDE trials. Counts and variable availability for patients used in the TW8 and SVR model development appear in Table 1. Values where imputed for BMI and METAVIR score on one patient and statin use and initial ribavirin dose on 66 patients. IL28B genotype was only available for a subset of the SPRINT-2, RESPOND-2 cohorts, and not for the PROVIDE cohort, thus baseline models for TW8 (n = 444) and SVR (n = 197) were limited to previously untreated, relapsers and partial responders. The variables included in the TW8 model were age, race, METAVIR score, steatosis score, statin use, platelets, ALT to ULN ratio, IL28 genotype, and previous treatment experience and the variables included in the SVR model were race, steatosis score, statin use, ribavirin, platelets, IL28 genotype, and HCV G1 subtype. We were unable to fit prior relapsing patients in any model, thus forcing us to exclude them from the baseline models. The discrimination ability (i.e. ability of the model to rank patients' risk) of the baseline models measured via the C-statistic was 0.76 for the TW8 model, and 0.69 for the SVR model. The models provided modest discrimination as assessed by the ROC curves (see Appendix S1).
+10.1371/journal.pone.0103370.t001Table 1
+Descriptive statistics on potential predictor variables in the total population, and patient used in the TW8 and SVR models, stratified on HCV RNA undetectability. Total Population
+Used in TW8 Model
+Used in SVR Model TW8 HCV-RNA Undetectable
+TW8 HCV-RNA Detectable
+SVR
+No SVR Total Population
+1,111
+738
+234
+696
+317 Prior Treatment Experience Type Previously Untreated
+735
+517
+155
+475
+198 Prior partial responder
+115
+57
+46
+53
+48 Prior relapser
+209
+164
+33
+149
+49 Prior Null responder
+52
+Na
+na
+19
+22 IL28B genotype (available on subset) C/C
+182
+167
+9
+146
+26 C/T
+346
+244
+85
+235
+94 T/T
+115
+72
+37
+67
+45 HCV-RNA after 4 weeks PR Min
+24
+24
+24
+24
+24 Max
+14300000
+6480000
+14300000
+7550000
+14300000 Mean
+644874
+216852
+1762829
+266375
+1347707 Log10 change in HCV RNA from baseline Min
+−5.96
+−5.96
+−5.69
+−5.96
+−5.69 Max
+0.44
+0.44
+0.32
+0.44
+0.32 Mean
+−2.13
+−2.65
+−0.86
+−2.60
+−1.20 HCV G1 subtype 1A
+545
+352
+127
+317
+174 1B
+424
+288
+79
+285
+105 Unknown
+142
+98
+28
+94
+38 Initial Ribavirin dose Min
+600
+600
+600
+600
+600 Max
+1400
+1400
+1400
+1400
+1400 Median
+1200
+1200
+1200
+1200
+1200 Age Min
+21
+21
+21
+21
+21 Max
+76
+74
+73
+74
+76 Mean
+51
+49.9
+51.5
+50.1
+51.4 Race African American
+157
+74
+51
+75
+62 Non-African American
+954
+664
+183
+621
+255 Gender Male
+694
+460
+149
+441
+198 Female
+417
+278
+85
+225
+119 Baseline values (kg) Weight Min
+44.0
+44.0
+48
+45.4
+48.0 Max
+124.9
+124.9
+124.7
+124.7
+124.9 Mean
+82.6
+83.2
+82.1
+82.5
+83.6 BMI Min
+17.2
+17.2
+18.1
+17.2
+18.1 Max
+51.7
+51.7
+45.7
+51.7
+47.6 Mean
+28.0
+28.1
+27.7
+27.9
+28.2 Hemoglobin Min
+10.4
+11.4
+10.4
+11.4
+10.4 Max
+19.4
+18.7
+19.4
+18.5
+19.4 Mean
+14.9
+14.9
+14.9
+14.9
+14.9 Steatosis Score Unknown
+52
+28
+16
+24
+24 0
+313
+223
+51
+207
+77 1
+560
+379
+109
+358
+150 2
+167
+99
+50
+98
+57 3
+19
+9
+8
+9
+9 ALT to ULN ratio Min
+0.35
+0.35
+0.35
+0.35
+0.35 Max
+15.65
+15.65
+7.37
+15.65
+7.37 Mean
+2.00
+2.01
+2.03
+2.07
+1.97 Platelets Min
+49
+77
+49
+77
+49 Max
+515
+515
+421
+515
+481 Mean
+239
+244.9
+215.9
+245.5
+225.8 HCV RNA Level Min
+1339
+1339
+181673
+3054
+147513 Max
+48844754
+40176361
+48844754
+40176361
+48844754 Mean
+7126734
+6855903
+8007643
+6788434
+7833441 Statin use Yes
+26
+22
+3
+21
+4 No
+1033
+716
+231
+656
+291 Unknown
+52
+Na
+na
+19
+22 We then performed the same modeling exercise using TW4 decline (log10 reduction in plasma HCV RNA from baseline to treatment week 4) in addition to baseline data. When evaluating the candidate predictors individually, IL28B genotype was an important independent predictor at baseline, but was no longer associated with outcomes after adjustment for TW4 decline – TW4 decline had the greatest potential effect on prediction. It has previously been shown in this clinical trial dataset [SPRINT-2, RESPOND-2] that whilst IL28B genotype is an important baseline predictor of outcomes, this effect is attenuated after adjustment for week 4 viral declines.[6] IL28B genotype and prior treatment experience were not selected in the final models because their inclusion did not improve prediction beyond the given model variables. Therefore, we were able to utilize 856 patients for the TW8 model, and 522 patients for the SVR model. The predictive factors in the TW4 model for TW8 response were TW4 decline, race, baseline platelet count and ALT. The predictive factors in the week 4 model for SVR were TW4 decline, G1-subtype, gender, BMI, RBV starting dose and baseline platelet count.
+The predictive accuracy of the TW8 and SVR models that included TW4 decline was superior to the baseline models (see Appendix S1). Bootstrapping indicated good validity of the models. The C-statistic of the TW8 model was 0.88 and the SVR model was 0.80. For this reason we developed nomograms only for the TW4 models. The linear predictor used to generate each model is found in Appendix S1.
+The nomograms for TW8 response and SVR are presented in Figures 1 and 2. Each nomogram can be used to calculate a patient's predicted probability of becoming undetectable at TW8 or achieving SVR if they have initiated and complete boceprevir treatment. To use it, first circle the patient's value for each variable on the individual variables scale. Then, draw a straight line upwards to the points scale. This represents the number of points for a given patient on a given variable. This procedure is repeated for each of the variables presented in the nomogram. Once all point scores are determined, sum the total points and circle that value on the total points scale after the last variable. To determine an individuals predicted probability of a response, draw a straight line downward from the total points scale.
+10.1371/journal.pone.0103370.g001Figure 1
+Nomogram for predicting TW8 response in null responders, partial responders, relapsers and previously untreated patients treated with Boceprevir + PR.
+Instructions: This nomogram is a visual representation of the regression model built to predict TW8 response to boceprevir. It can be used to calculate a patient's predicted probability of becoming undetectable at TW8 if they have initiated boceprevir treatment. To use it, first circle the patients TW4 HCV-RNA on the TW4 HCV-RNA scale. By drawing a straight line upwards to the points scale. This represents the number of points for that patient based upon their TW4 HCV-RNA level. For example, if they have a value of ≤1500, the point score would be 100. Repeat this procedure for each of the variables presented in the nomogram. Once all point scores are determined, sum the total points and circle that value on the Total Points scale after the last variable. Draw a straight line downward from the Total Points scale to determine an individuals predicted probability of a TW8 response.
+10.1371/journal.pone.0103370.g002Figure 2
+Nomogram for predicting SVR in null responders, partial responders, relapsers and previously untreated patients treated with Boceprevir + PR. Decision Trees
+The recursive partitioning analyses revealed trees that formed risk groups based on clinical characteristics similar to the nomogram. Patients were categorized in the TW8 tree into six groups based upon the log10 reduction in HCV RNA from baseline to treatment week 4 and platelets. Those who had a log10 reduction of less than 0.45 had the lowest predicted probabilities, and those with a log10 reduction of greater than 1.83 had the highest predicted probabilities. The tree for SVR was more complex, using TW4 decline, HCV-RNA genotype 1 subtype and BMI to create eight groups. Patients who had a TW4 decline of less than 0.7 log10 reduction and were HCV-RNA genotype 1a had the lowest overall predicted probabilities, while those who had a log10 reduction of greater than 2.36 with a BMI of less than 36 had the highest predicted probabilities. The TW8 and SVR trees had C-statistics of 0.853 and 0.784, respectively, indicating the nomograms provided superior prediction. Validation
+Finally, we used a dataset from the management of anemia study to externally validate the models/nomograms. The nomograms achieved moderate to excellent predictive ability when tested against the validation dataset. When predicting TW8 response, the nomogram produced excellent results as represented by a C-statistic of 0.85. When predicting SVR, the nomogram produced moderate predictive ability with a C-statistic of 0.71. Calibration curves for both models were assessed and showed good calibration (see Appendix S1).
+The development of HCV protease inhibitors represents an important therapeutic advance for patients with genotype 1 HCV. Boceprevir-based triple therapy offers substantial improvements in SVR rates, and many patients will be eligible for shortened duration therapy with 28 vs. 48 weeks.A number of pre-treatment host and viral factors have been associated with the outcome of BOC triple therapy.[6] These include IL28B genotype, race (black vs. non-black), liver fibrosis stage, baseline viral load, HCV-1 subtype (1a vs. 1b), body mass index (BMI), and among treatment-experienced patients, the prior response to PR.[6] In addition to baseline factors, the rate of plasma HCV RNA decline during the early on-treatment period has been identified to be strong negative predictor of outcome. Important thresholds include the failure to achieve a 1-log10 drop in plasma HCV RNA at week 4,[6] as well as HCV RNA <1000 IU/mL at week 8,[21] both of which are predict for non-SVR (indeed, the FDA and EMA have recently recognized HCV RNA >1000 IU/mL as a stopping rule for boceprevir). Despite the recognition that these predictors are important, accurate discrimination of likelihood of SVR for an individual patient remains limited. Further, response-guided therapy is an important advance for patient care, and to date there are few data exploring prediction of TW8 response, used as the eligibility criteria for short duration treatment.We have developed predictive models and corresponding nomograms for predicting TW8 response and SVR in patients initiated on boceprevir plus PR. The models that included only baseline variables were satisfactory, but these analyses were limited by data constraints, in particular the lack of IL28B genotyping data for many patients. Previous studies that developed predictive models for the outcome of PR dual therapy have shown that inclusion of IL28B genotype improves predictive accuracy of baseline models.[22] Further, our data had limited numbers of past treatment failure types, thus limiting our ability to fully explore the impact of past treatment history. However, including TW4 decline in HCV RNA level allowed many of these issues to be overcome. IL28B genotype informs IFN responsiveness, and we have previously shown that TW4 response captures this information.[23] Similarly, prior treatment history informs IFN responsiveness, and this information can be captured in ‘real time’ by using the 4 week PR lead-in.The more successful models were therefore those that included TW4 decline in plasma HCVRNA level. These TW4 models were better calibrated than those models that included only baseline predictors. The TW4 models performed very well, with high areas under the ROC curve, and c-statistics of 0.88 and 0.80 for TW8 response and SVR, respectively. The models were successfully validated using data from the management of anemia study, which confirmed clinical utility [8], [9].We used decision tree analysis to compare the nomograms to an approach where patient outcome was assessed according to grouping of identified known prognostic factors. We did this to simulate common risk assessment performed in the clinic. The results were disappointing. Clinicians will achieve greater accuracy using the nomograms over the counting or ad hoc assembly of risk factors through categorized variables.There are a number of limitations to the current study. One of our stated goals was to develop models using baseline patient characteristics. Unfortunately, the performance characteristics of the baseline models were suboptimal. There were a number of limitations inherent in the datasets available. These analyses were limited by data constraints, in particular the lack of IL28B genotyping data for many patients. Previous studies that developed predictive models for the outcome of PR dual therapy have shown that inclusion of IL28B genotype improves predictive accuracy of baseline models.[22] Further, our data had limited numbers of past treatment failure types, thus limiting our ability to fully explore the impact of past treatment history. Including TW4 decline in HCV RNA level allowed many of these issues to be avoided. IL28B genotype informs IFN responsiveness, and we have previously shown that TW4 response captures this information.[23] Similarly, prior treatment history informs IFN responsiveness, and this information can be captured in ‘real time’ by using the 4 week PR lead-in. Liver fibrosis stage was not included in the final models, despite being known to be associated with the outcome of BOC-based therapy.[6] We made a conscious decision not to include liver fibrosis stage in the model, due to the increasing availability and uptake of non-invasive markers of liver fibrosis stage, however we did assess its potential for inclusion in the models. When we tested the influence of fibrosis stage on the final model, inclusion did not have a great influence on the TW4 models. Finally, the models were externally validated using data from the management of anemia study,[8], [9] which confirmed clinical utility. As is normally the case, the predictive accuracy was not quite as high in the external validation dataset. This is likely to reflect the different characteristics of the cohort enrolled in the management of anemia study, compared to the training cohort: treatment-naïve, non-cirrhotic patients with baseline hemoglobin 13–15g/dL (male) or 12–15g/dL (female).The data support the clinical utility of the 4-week lead-in period of PR therapy for individualizing therapy, particularly for patients where the decision to treat now or treat later is not clear-cut. This may arise when patients are concerned about tolerability or duration of therapy, or where clinicians are concerned about response rate and the risk of PI resistance, particularly in patients with prior non-response to PR. The 4 week lead-in allows identification of patients who achieve an RVR – these patients will have a high rate of SVR, and addition of boceprevir may not be indicated. The lead-in also allows a period of adjustment to the side effects of treatment before DAA introduction. Importantly, for patients who remain viraemic at week 4, use of these nomograms can now refine prediction of eligibility for short duration therapy, as well as prediction of overall likelihood of success. We believe the nomograms will help maintain patient motivation and compliance throughout therapy. The predicted outcome may also be relevant to a patient's decision to continue with treatment beyond week 4, or to defer PI exposure pending the availability of next generation DAAs.The data have implications for health care dollar utilization. Currently, the cost for boceprevir is calculated according to the duration of use (cost/week), in contrast to telaprevir that has a fixed 12-week cost. Short duration boceprevir therapy is therefore less expensive than short duration telaprevir therapy. The nomograms identify patients more likely to be eligible for short duration therapy, and for who boceprevir- based therapy may be the more cost effective treatment regimen.We acknowledge that the treatment landscape is rapidly changing, and the next generation DAAs simeprevir and sofosbuvir have recently been approved by the FDA and the EMA for use in combination with PR. Regimens offer the benefit of once daily dosing, improved tolerability, and increased likelihood of short-duration dosing. In North America, and in the stronger economies of Western Europe, it is likely that these agents will largely supersede boceprevir, limiting the lifespan of the nomogram. However, these new regimens involve a significant price premium. Future IFN-free regimens will be even more expensive. Short duration boceprevir, identified by boceprevir nomograms, may therefore continue to represent a cost-effective regimen for payers in these regions. Moreover, the approval and availability of these next generation DAA regimens in regions with weaker economies is likely to be considerably delayed. The nomograms will continue to be clinically relevant in these regions for an extended period.In summary, we have developed nomograms for predicting response to boceprevir therapy using data from the registration studies. Predictive models incorporating baseline data and TW4 HCV RNA decline provide excellent individual predictions of TW8 response and SVR, and support the clinical utility of the lead-in phase of PR. The nomograms are suitable for point-of-care use to inform individual patient and physician decision-making about the potential duration and success from treatment with boceprevir plus PR."

@@ -63,7 +63,7 @@ statcheck <- function(
     locator_ci <- gregexpr("[0-9]{2}\\%.*?(confidence interval.*|ci.*?)[=:;].*?([0-9]{1,}?[.]?[0-9]{1,}.*?[0-9]{1,}?[.]?[0-9]{1,})", resContext, ignore.case = TRUE)
     
     # P-value (if present)
-    locator_p <- gregexpr("p.*?[<>=]", resContext, ignore.case = TRUE)
+    locator_p <- gregexpr("p.?[<>=]", resContext, ignore.case = TRUE)
     
     for (j in 1:length(resContext)){
       # extract data from each context with use of locators

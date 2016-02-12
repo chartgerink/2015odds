@@ -1,0 +1,152 @@
+"Comparison of the genotyping assays
+Genotyping of IL28B was performed using the Invader Plus and TaqMan probe-based assays [24], and by direct sequencing. There was 100% concordance between the two assays, and there was 99.2% agreement between the two assays and direct sequencing (i.e., a discrepancy of 0.8%) (Table 1). Therefore, we used the broadly-prevalent TaqMan probe assay to examine the association between SNPs and treatment responses in the present study.
+10.1371/journal.pone.0093011.t001Table 1
+Summary of results of genotyping by three different methods. Total n = 135 No.(%) of cases with genotype by: SNP
+Genotype
+Direct sequencing
+Invader
+TaqMan
+Concordance rs12979860
+CC
+57
+57
+57 CT
+64
+64
+64
+1 TT
+14
+14
+14 rs8099917
+TT
+90
+89
+89 TG
+40
+40
+40
+0.992 GG
+5
+6
+6 Association between SNPs and treatment responses
+The characteristics of each patient group are summarized in Table 2. One hundred thirty five patients (87.5% CA, 12.5% EE) completed either 24 or 48 weeks of treatment with Peg-IFN-α plus RBV. There was no significant difference between the groups in terms of age, gender, HCV viral load, and viral genotype (Table 2). There was no statistically significant difference between the percentages of CA and EE that showed a NVR (21.2% and 35.2%, respectively; p<0.32) (Fig. 1). However, there was a significant difference in the prevalence of SNPs within IL28B and IFNL4 between VR and NVR in each ethnic. To evaluate the clinical applicability of individual SNPs, we calculated the predictive ORs for each SNP between VR and NVR in each ethnic (Table 3). All of the identified SNPs (favorable genotype) predicted positive response to treatment outcome in the overall study population and in the CA population, but not in the EE population. Interestingly, the polymorphism identified in the newly discovered IFNL4 gene, ss469415590 [11], showed a strong linkage with the rs12979860 SNP around IFNL3 in the overall study population; therefore, each had equal predictive value (Table 3). The most informative marker to predict VR of HCV treatment outcome was rs8099917 (OR, 5.75; 95% CI, 2.4–13.6, p<0.001), followed by rs12979860/ss469415590 (OR, 5.2;95% CI, 1.9–14.6; p = 0.002). The predictive values of the SNPs are shown here for the entire studied population inclusive all HCV genotypes. There was no significant difference in predictive power (OR) of the SNPs when population was analyzed in the context of different HCV genotypes (1 vs non-1), however statistical power of the analysis was lower, most likely due to the smaller size of the non-1 genotype infected patients in this study.
+10.1371/journal.pone.0093011.g001Figure 1
+Different HCV treatment outcomes in groups of individuals of central Asian (CA) or eastern European (EE) ancestry.
+Treatment outcome was measured in terms of virological and non-virological response (VR and NVR, respectively) (see text for details).
+10.1371/journal.pone.0093011.t002Table 2
+Summary of population completed antiviral treatment for chronic HCV. Central Asian
+East European
+Overall VR
+NVR
+p
+VR
+NVR
+p
+VR
+NVR
+p n.
+93
+25 11
+6 104
+31 Age (mean years old ± SE)
+39.7±1.5
+39.7±3.2
+0.437
+45.2±3.6
+39.3±5
+0.358
+40.6±1.3
+37.9±2.9
+0.346 Baseline HCV viral load (mean ×106±SE)
+3.1±8.9
+4.2±2.3
+0.609
+1.6±6
+1.2±5
+0.663
+2.9±6.7
+3.4±1.7
+0.727 HCV genotype (1/non-1)
+77/16
+22/3
+0.759
+11
+6 88/16
+28/3
+0.673 Treatment duration (mean months±SE)
+7.6±0.2
+8±0.5 8.3±0.8
+6.0±1.2 7.7±0.5
+7.6±0.8 Drug configuration (IFN/Peg IFN)
+38/55
+14/11
+0.176
+7/4
+5/1
+0.6
+59/45
+12/19
+0.101 IL28B (rs8099917) MA: n(%)
+71(76.4)
+8(32)
+<0.001
+8(72.7)
+3(50)
+0.6
+79 (76)
+11 (35.5)
+<0.001 HE&MI: n(%)
+22(23.6)
+17(68) 3(27.3)
+3(50) 25 (24)
+20 (64.5) IL28B (rs12979860) MA: n(%)
+47(50.5)
+4(16)
+0.003
+5(45.5)
+1(16.6)
+0.333
+52 (50)
+5 (16.1)
+<0.001 HE&MI: n(%)
+46(49.5)
+21(84) 6(54.5)
+5(83.4) 52 (50)
+26 (83.9) IFNL4 (ss469415590) MA: n(%)
+47(50.5)
+4(16)
+0.003
+5(45.5)
+1(16.6)
+0.333
+52 (50)
+5 (16.1)
+<0.001 HE&MI: n(%)
+46(49.5)
+21(84) 6(54.5)
+5(83.4) 52 (50)
+26 (83.9) 10.1371/journal.pone.0093011.t003Table 3
+SNPs showed statistical significance in predicting treatment outcome in studied population. Ethnic origin
+ss469415590 TT
+rs8099917 TT
+rs12979860 CC OR (95% CI)
+OR (95% CI)
+OR (95% CI) Central Asian
+5.364 (1.7–16.8) *
+6.858 (2.6–18.0) *
+5.364 (1.7–16.8) * East EU
+4.167 (0.4–48.4)
+2.667 (0.3–21.3)
+4.167 (0.4–48.4) Overall
+5.2 (1.9–14.6) *
+5.745 (2.4–13.6) *
+5.2 (1.9–14.6) * *(p≤0.05).
+Genetic differences between ethnic groups
+The alleles associated with all of the tested SNPs were in the Hardy-Weinberg equilibrium. The rs12979860, rs8103142, and rs1188122 SNPs showed high linkage disequilibrium (LD) in both ethnic groups (Fig. 2). There was no difference in the frequency of rs8099917 alleles between the CA and EE populations; however, a minor allele of the rs12979860 SNP was observed more frequently in the EE group (0.32 vs. 0.44; p<0.002) (Fig. 3). The rs8099917 SNP had a higher predictive value than rs12979860/ss469415590 in the CA population (Table 3), whereas the reverse tended to be true in the EE population, although the differences were not statistically significant.
+10.1371/journal.pone.0093011.g002Figure 2
+Linkage disequilibrium diagram showing clustering of the studied SNPs.
+The diagram was generated using HaploView software (available through the HapMap project).
+10.1371/journal.pone.0093011.g003Figure 3
+Allele frequencies of the tested SNPs (n = 135).
+The capital letter “A” represents ancestral (“major”) alleles and lower case letter “a” represents mutant alleles (“minor”). CA: population with central Asian ancestry; EE: population with eastern European ancestry.
+The aim of this study was to examine the prevalence and clinical significance of SNPs within the IFNL3/IL28B and IFNL4 alleles in a population of HCV-infected patients in Central Asia. We also evaluated the ability of these SNPs to predict responses to anti-HCV treatments in this population. We found that rs12979860 and rs8099917 were informative markers of treatment response in Uzbekistan with different ethnicity. The rs8099917 genotype TT was the most common in the overall study population (67.8%), followed by the rs12979860 genotype CC (49%). This is the first report showing the distribution and linkage between the recently described IFNL4 ss469415590 SNP [11] and the IL28B rs12979860 SNP in HCV-infected individuals in Uzbekistan.According to the Human Haplotype Mapping project, only 15–19% of Caucasians carry the rs8099917 G allele. Notably, the GG genotype of rs8099917 was identified in 3.6% of patients in the present study, a lower prevalence than that observed in other countries [7]–[10]. These results agree with those of a previous study showing the variability of allele frequencies (2–31%) between different ethnic groups [25].The rs8099917 SNP was a better predictor of treatment outcome in subjects of CA ancestry than the rs12979860/ss469415590 SNPs (Table 3). However, the reverse tended to be true for patients with EE ancestry. This is in agreement with the results of a previous study that examined populations of Western European ancestry [7], [10]. A greater number of individuals of Eastern European ancestry must be examined to confirm the trend observed in the present study. Finally, although previous reports show that combined polymorphisms may show increased predictive value in terms of a SVR [26], no significant improvements were noted for the populations examined herein. Interestingly, the degree of LD between rs12979860 and the two SNPs within the IL28-encoding gene identified herein was slightly different in the two populations studied (Fig. 2), i.e., a strong LD was observed among patients of EE ancestry. One possible explanation for this is the smaller size of this patient population. Thus, we need to confirm our findings in a larger cohort. Another interesting observation is that, differently from a previously described Japanese population [9], we found a very low LD between rs8099917 and SNPs within the IL28B-encoding region; nevertheless both the favorable genotype of rs12979860 and rs8099917 were independent predictors of treatment outcome, suggesting the possibility of different mechanisms of involvement of the genetic regions around IL28B.Predictive power of the SNPs, particularly of the IFNL4 ss469415590 variation reported here was in the range of that reported among Caucasians with HCV/1b [14], [15]. The fact that predictive power of genetic markers ranges vastly across different reports even within a highly homologous genetically population as Japanese (OR from 4.7 to 19.5) [19], [20], reinforces importance of replication and meta-analyses of such investigations across and within populations with different ethnic background.In conclusion, genotyping of IL28B locus polymorphisms could help to predict responses to PEG-IFN-α plus RBV therapy in a Central Asian population. As protease inhibitors gain popularity as a form of HCV therapy, the clinical application of IL28B genotyping to this population may help to identify patients who might benefit from therapies other than triple therapy. Thus, genotyping the rs12979860/rs8099917 polymorphisms are still the best known markers that could be used to predict patients' responses to IFN/RBV before initiation of the treatment. This can be important marker for the choice of individually tailored anti-HCV therapy."

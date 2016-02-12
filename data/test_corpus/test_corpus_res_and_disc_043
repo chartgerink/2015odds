@@ -1,0 +1,121 @@
+"Cohort
+The study cohort included patients with ‘healthy liver tissue’ after histological exclusion of liver disease (n = 12), patients with non-viral liver-diseases (n = 25), those with chronic HBV (n = 18) and patients with chronic HCV infection (n = 45). When considering all patients as one group (n = 100), distribution of IL28 rs12979860 and IFNL4 ss469415590 genotypes were in Hardy-Weinberg equilibrium (Table 1). As expected for a Western European population, the IL28 rs12979860 wildtype allele C was closely correlated to the IFNL4 ss469415590 wildtype allele TT as revealed by linkage disequilibrium analysis (D′ = 1, r2 = 0.899).
+10.1371/journal.pone.0084026.t001Table 1
+Patient genotype distribution. Genotype distribution
+MAF
+P wt/wta
+wt/v
+v/v IL28 rs12979860 [C/T]a All (n = 100)
+42 (42.0%)
+47 (47.0%)
+11 (11.0%)
+0.345
+0.6896b Non-hepatitis C patients (n = 55)
+31 (56.4%)
+18 (32.7%)
+6 (10.9%)
+0.270
+0.0035c Hepatitis C patients (n = 45)
+11 (24.4%)
+29 (64.4%)
+5 (11.1%)
+0.433 IFNL4 ss469415590 [TT/ΔG]a All (n = 100)
+43 (43.0%)
+45 (45.0%)
+12 (12.0%)
+0.345
+0.9655b Non-hepatitis C patients (n = 55)
+31 (56.4%)
+17 (30.9%)
+7 (12.7%)
+0.280
+0.0052c Hepatitis C patients (n = 45)
+12 (26.7%)
+28 (62.2%)
+5 (11.1%)
+0.422 a[wildtype (wt)/variant (v)];bExact test for Hardy-Weinberg equilibrium;cχ2-test for genotype distribution, non-hepatitis C patients vs hepatitis C patients;MAF: Minor allele frequency.
+Comparing hepatitis C with non-hepatitis C patients, rs12979860 as well as IFNL4 ss469415590 genotype distributions were significantly different with a higher minor allele frequency among hepatitis C patients (Table 1). This shift in genotype distribution towards the minor allele is consistent with the concept that the wildtype allele was protective in our patients with hepatitis C. Hepatitis C TT homozygotes did not differ significantly from carriers of the ΔG allele regarding distribution of HCV types, age, serum transaminase activities or histological manifestations (Table 2).
+10.1371/journal.pone.0084026.t002Table 2
+Patient characteristics. All
+IFNL4 ss469415590 genotype
+p-value TT/TT
+TT/ΔG
+ΔG/ΔG Healthy livers
+12
+7
+5
+0 Non-viral liver diseases
+25
+12
+7
+6 Chronic hepatitis B
+18
+12
+5
+1 Chronic hepatitis C
+45
+12
+28
+5 HCV types 1a/1b/3 [n]
+7/29/5
+2/7/3
+5/18/2
+0/4/0
+0.4030 age [mean ± SD]
+45.9±12.3
+41.3±11.2
+48.1±12.3
+44.0±14.3
+0.2657 serum transaminase activity ALT [U/l]
+76±61
+82±45
+78±71
+52±36
+0.6403 AST [U/l]
+45±37
+54±59
+45±33
+34±20
+0.6422 inflammatory activity mild
+21
+5
+13
+3
+0.4957 moderate/severe
+19
+7
+11
+1 fibrosis absent/mild
+26
+7
+17
+2
+0.6099 moderate/severe/cirrhosis
+14
+5
+7
+2 steatosis absent
+18
+8
+7
+3
+0.0459 mild/moderate/severe
+22
+4
+17
+1 IFNL4 transcript expression in human liver samples
+Among the ten novel transcripts identified by Prokunina-Olsson and colleagues in polyI:C stimulated primary human hepatocyte cultures upstream of IFNL3, only p179 (NM_001276254) was designated as an IFN-λ protein, IFNL4, on the basis of a 29% protein sequence homology with type III IFNs [21]. In order to specifically quantify IFNL4 mRNAs in liver specimens, an assay was designed as outlined in the Patients and Methods section. Specificity of the assay was validated as follows: (i) a BLASTN search revealed a lack of homologies of the primers or probe to any other genes, in particular of IFN-λs, (ii) the expected size of the amplicon (129 bp), or the absence of any or any further products, respectively, was confirmed by high resolution electrophoretic separation (Figure 1) and (iii) custom sequencing confirmed correspondence of the amplicon with the reference sequence (four representative samples, two TT and ΔG homozygotes each, data not shown) (see Patients and Methods section).
+10.1371/journal.pone.0084026.g001Figure 1
+Electropherograms of IFNL4 amplicons.
+After completion of PCR amplification, 1 µl of samples was separated and analyzed in the Agilent 2100 bioanalyzer using the DNA 1000 LabChip kit. Electropherograms and gels are shown for two representative samples each of ss469415590 TT homozygotes without any amplification of IFNL4-specific transcripts (IFNL4 nd) (#1, #2) or of ΔG homozygotes (#3, #4) and of TT homozygotes (#5, #6) with detectable amounts of hepatic IFNL4-specific mRNA (IFNL4 d). Analysis confirmed the lack of products in samples #1 and #2, and the presence of products of the expected size (accuracy ±5 bp, as given by the supplier) both in ΔG and TT homozygotes. In the various patient groups in this study, IFNL4 transcripts were exclusively detected in liver specimens from patients with hepatitis C, in fact in 24/45 (53.3%) of the samples (Figure 2). Non-detectability of IFNL4 transcripts due to insufficient amounts of cDNA could be ruled out as we matched both groups for the number of reference GAPDH transcripts. With a ratio of IFNL4/GAPDH transcripts of 1/12,416 on average (range 1/2,194 to 1/30,573, lower limit of detection) in whole liver tissue samples, IFNL4 mRNA expression was markedly lower than that of IL28A/B or IL29 (4.3-fold and 5.6-fold, respectively, data not shown).
+10.1371/journal.pone.0084026.g002Figure 2
+IFNL4 transcript expression in human liver samples.
+Liver biopsy specimens taken from patients with suspected but later excluded liver diseases (healthy controls) and from patients with non-viral liver diseases, chronic HBV infection or chronic HCV infection were analyzed for IFNL4 gene expression. IFNL4 gene expression was quantified by applying a 5′-nuclease assay using a specific primer-probe set as outlined in the Patients and Methods section. Data were normalised to GAPDH transcripts as a reference. IFNL4 transcripts were detectable in patients of all three genotypes, yet not in all of the ΔG allele carriers (distribution of genotypes (TT/TT∶TT/ΔG∶ΔG/ΔG)- was 4∶16∶4 and 8∶12∶1 in patients with detectable and non-detectable quantities of IFNL4 transcripts, respectively, p = 0.1720). The amount of IFNL4 steady state mRNA levels was not found to differ with regard to ss469415590 genotypes (p = 0.8125, data not shown). However, it was found to be closely related to intrahepatic HCV viral loads (r = 0.5599, p = 0.0023) (Figure 3). As the group of patients with detectable amounts of IFNL4 transcripts comprises individuals with all three genotypes (TT/TT, TT/ΔG, ΔG/ΔG), among them the wildtypes which are not supposed to generate any protein, and the heterozygotes and rare allele homozygotes supposed to express different amounts of protein, data are indicative for a relationship between hepatic viral loads and IFNL4 transcriptional (promoter) activity irrespective of the IFNL4 ORF governing ss469415590 genotype (see symbols in Figure 3).
+10.1371/journal.pone.0084026.g003Figure 3
+The number of hepatic IFNL4 transcripts relates to hepatic viral loads.
+A linear regression analysis among hepatitis C patients with measurable amounts of IFNL4 mRNA revealed a correlation between hepatic viral loads, which was assessed by the amount of viral nucleic acids in relation to the amount of GAPDH transcripts, and hepatic IFNL4 transcripts, which were also normalised to the amount of GAPDH transcripts. Correlation coefficient and level of significance are given. Symbols indicate patient genotypes. Hepatic activation of ISGs and IL28A/B and IL29 transcription
+The rs12979860 unfavorable minor allele T, which marks the IFNL4 creating ss469415590 allele ΔG, has been shown to be associated with higher basal hepatic ISG activation. Furthermore, transient expression of IFNL4 was reported to activate expression of ISGs in hepatoma cells in vitro [21]. We thus related the IFNL4 ss469415590 genotypes to ISG activation in human liver samples. IFI44 (p44) was chosen since p44 was the first cytoplasmic protein formerly shown to be associated with a characteristic ultrastructural entity (membranous web) within hepatocytes in nonA-nonB hepatitis, and it was later on found to be IFN-inducible [6]. MxA, one of the first ISGs described, is among those reported by Prokunina-Olsson et al. to be activated by IFNL4 [21]. Carriers of the IFNL4 creating ΔG allele were found to have significantly higher amounts of IFI44 mRNA (Figure 4A) or MxA mRNA (Figure 4D) than patients homozygous for the disruptive TT allele. Moreover, by relating actual IFNL4 transcription in carriers of the ΔG allele to ISG induction, patients with measurable quantities of IFNL4 mRNAs presented significantly stronger ISG induction than those without (Figure 4B, E). Finally, linear regression analyses revealed positive correlations between both IFI44 and MxA transcripts and IFNL4 gene transcripts in ΔG allele carriers (Figure 4C, F). These findings are in line with the concept that IFNL4 activates ISGs [21].
+10.1371/journal.pone.0084026.g004Figure 4
+Hepatic activation of ISGs.
+Liver samples from chronic hepatitis C patients were quantified for IFI44 (A, B) and MxA (D, E) transcripts with regard to IFNL4 ss469415590 genotypes and detectability of hepatic IFNL4 transcripts. Medians are indicated by horizontal bars. Carriers of the ΔG allele experienced significantly higher ISG expression than TT homozygotes (A, D), as do ΔG allele carriers (closed symbols) with detectable amounts of hepatic IFNL4 transcripts (IFNL4 d) when compared to those without (IFNL4 nd) (B, E). Open symbols indicate TT homozygotes, data of whom were not included in significance testing. Linear regression analyses revealed positive relationships between IFNL4 gene transcripts and IFI44 (C) and MxA (F) mRNA expression. In view of the high LD between rs12979860 and ss469415590, and since many reports described an absence of relationship between rs12979860 genotypes and hepatic IFN-λ gene expression [17]–[19], [27], expectedly, neither hepatic IL28A/B nor IL29 mRNA expression were found to be related to ss469415590 genotypes (p = 0.8820 (n = 43) and p = 0.4115 (n = 41) for IL28A/B and IL29, respectively, data not shown).
+Here we report on a first cross-sectional analysis of IFNL4 gene transcripts in liver biopsies from patients with hepatitis C, hepatitis B, various inflammatory liver diseases due to other etiologies, and from patients without any histological liver disease. In this broad range of samples, IFNL4 mRNA transcripts were exclusively detected in specimens from patients with chronic hepatitis C, albeit only in half of them. This finding suggests that the IFNL4 gene is specifically activated in HCV infection. Evidence for this is further strengthened by detection of a quantitative correlation between HCV viral loads and the amount of IFNL4 transcripts. Thus, HCV infection possibly induces hepatic IFNL4 gene transcription. This is in line with the finding that polyI:C stimulates IFNL4 activation in primary human hepatocytes in vitro [21].In contrast to the IFNL4 allelic ΔG transcript variant (JN806234), the allelic TT transcript (JN806227) is, once transcribed, suggested to most likely be eliminated by nonsense-mediated RNA decay due to a premature stop codon [21]. As we found comparable amounts of transcripts in TT and ΔG homozygotes (n = 4 each), we have no evidence for a difference in stability of these two transcript variants in freshly ex vivo derived liver biopsy specimens.Regarding the IFNL4 protein, we have no information. As only the ΔG transcript variant is IFNL4 protein encoding, the amount of transcripts cannot be taken as a measure of gene expression. This is true particularly for carriers of the TT allele. However, the amount of transcripts should reflect, with reservations, transcriptional (promoter) activity.As for non-measurable quantities of IFNL4 transcripts in liver samples we can only speculate. This finding possibly resembles a low abundance of IFNL4 transcripts below the limit of detection. However, the positive relationship between IFNL4 transcript expression and hepatic viral loads over its entire range and our matching for the reference GAPDH argue against this possibility. It could be related to a differential sensing of HCV RNA via intracellular and extracellular/endosomal pattern recognition receptors in liver cells [28] or to efficient cleavage of adaptor molecules in only some of the samples. The in vitro experiments reported by Prokunina-Olsson et al. studied primary human hepatocyte cultures stimulated with polyI:C, where absence of the HCV NS3/4A protease could have allowed an unhindered activation of IFNL4 [21].We and others showed that HCV infection in humans is not accompanied by an activation of type I or type III IFNs in the liver [7]–[9], [29], [30]. These results appear to be partly due to the proteolytic cleavage of the adaptor molecules of the cytoplasmatic and the endosomal driven sensory pathways by HCV NS3/4A protease in the virus-infected compartment of liver cells [10]. In this regard, induction of IFNL4 mRNA in hepatitis C liver tissue is surprising as it is apparently the only IFN in the liver shown to date to be clearly inducible by HCV infection in humans. It appears that IFNL4 induction is less or not at all affected by an inactivation of signaling molecules as seen in the other IFNs.With regard to genotype, carriers of the IFNL4 creating ΔG allele experienced higher ISG activation than IFNL4 disrupting TT homozygotes. To our current knowledge, this finding might be attributable to the ability to express IFNL4 [21] or to a decreased IL28B expression [22]. Our data clearly show that the first possibility applies since the effective IFNL4 transcriptional activity was found to be related to ISG stimulation as well. Regarding the second possibility, we cannot draw any conclusion as our assay does not discriminate between the IL28 paralogues A and B, and because of the high LD of the two loci and only few genotype discordant samples.In conclusion, our data, obtained from a relatively broad panel of human liver tissue samples of various etiology, demonstrate exclusive induction of IFNL4 mRNA in livers of chronic hepatitis C patients, albeit only in a subgroup of them. This is remarkable in view of an otherwise attenuated hepatic IFN gene activation in HCV infection in humans. An obvious associative evidence of the ΔG allele with the activation of ISGs could be attributed to liver IFNL4 mRNA expression in our study patients."

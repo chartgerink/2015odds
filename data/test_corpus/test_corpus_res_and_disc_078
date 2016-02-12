@@ -1,0 +1,168 @@
+"Participant characteristics
+The characteristics of the population with acute HCV infection included in this study (n = 643) are summarized in Table 1. Median age was 26 years, 36% were female, 96% had a history of injecting drug use, and 17% (n = 112) received HCV treatment during follow-up (all treated individuals included started treatment at >26 weeks following infection). Acute HCV infection was documented by HCV seroconversion in 89% (n = 573) of participants; 183 of these were HCV RNA positive and anti-HCV negative at acute HCV detection. During the first 12 months following estimated date of HCV infection, a median of three HCV RNA tests (inter-quartile range [IQR]: 2, 5), with a median of 35 days (IQR: 23, 91) between tests, were included. The median interval from estimated date of infection to the first positive anti-HCV or HCV RNA test was 101 days (IQR: 28, 172). The overall median follow-up time from the estimated date of infection to the last HCV RNA measurement was 19 months (IQR: 9, 36). 10.1371/journal.pone.0122232.t001
+Table 1 Characteristics of individuals with acute HCV infection in the InC3 Study. Number (%)* Overall (n = 643) Site ACS (the Netherlands)
+44 (7) ATAHC (Australia)
+125 (19) BAHSTION (United States)
+50 (8) BBAASH (United States)
+114 (17) HEPCO (Canada)
+78 (12) HITS-c (Australia)
+10 (2) HITS-p (Australia)
+90 (14) N2 (Australia)
+17 (3) UFO (United States)
+115 (18) Median age at the time of HCV infection, yrs (IQR**)
+26 (23, 33) Sex Female
+230 (36) Male
+411 (64) Unknown
+2 (<1) Ethnicity Caucasian
+525 (82) Black
+24 (4) Indigenous
+32 (5) Other
+47 (7) Unknown
+15 (2) History of injecting drug use
+616 (96) Documented acute HCV infection by: HCV seroconversion
+573 (89) Symptomatic infection, and a recent history of high-risk exposure
+70 (11) Clinical illness at the time of acute HCV infection No
+120 (19) Yes
+139 (22) Unknown
+384 (61) IFNL3 genotype (rs12979860) TT
+64 (10) CT
+215 (33) CC
+272 (42) Unknown
+92 (14) HIV status at the time of HCV infection Negative
+574 (89) Positive
+44 (7) Unknown
+25 (4) HCV genotype Genotype 1
+302 (47) Genotype 2
+33 (5) Genotype 3
+187 (29) Genotype 4
+7 (1) Genotype 6
+4 (1) Mixed genotype
+14 (2) Unknown
+96 (15) * Percentages indicate column percentages;
+** IQR: Inter-quartile range HCV RNA and ALT levels during acute infection, by infection outcome
+HCV RNA and ALT levels among those with spontaneous clearance and persistent infection were assessed among 643 participants with acute HCV infection (173 with spontaneous clearance and 470 with persistent infection; Fig. 2). 10.1371/journal.pone.0122232.g002
+Fig 2 Monthly medians of HCV RNA and ALT levels in individuals with acute HCV infection in the InC3 study (total n = 643).
+(A) HCV RNA levels, by infection outcome (clearance vs. persistence); (B) ALT levels by infection outcome (clearance vs. persistence), tables underneath panel A and B represent number of participants with available HCV RNA/ALT levels measurements at each time point; (C) Fitted HCV RNA patterns, shaded areas in panel C represent the 95% confidence intervals. Peak median HCV RNA levels occurred at one month following infection in those with spontaneous clearance (5.7 log IU/mL; IQR: 3.0, 7.0) and at months one and two in those with persistent infection (month one: 5.4 log IU/mL; IQR: 3.8, 6.5 and month two: 5.4 log IU/m; IQR: 3.1, 6.4; P = 0.39 for month one comparison). By month two to four, HCV RNA declines were seen in both groups. At month two, median HCV RNA levels remained comparable between individuals with persistent infection (5.4 log IU/mL; IQR: 3.1, 6.4) and spontaneous clearance (4.8 log/IU/mL; IQR: 0.0, 6.0; P = 0.38). Median HCV RNA levels initially diverged at three months following infection, being 4.8 log/IU/mL (IQR: 3.3, 6.0) in individuals with persistent infection compared to 3.2 log/IU/mL (IQR: 0.0, 6.1) in those with spontaneous clearance (P = 0.03). Subsequent marked divergence in median HCV RNA level between the two groups was seen at month four and beyond (Fig. 2A).
+Peak HCV RNA preceded peak ALT by approximately one month, with peak ALT levels being observed in month two following infection among individuals with persistent infection (354 IU/L; IQR: 99, 944) and spontaneous clearance (463 IU/L; IQR: 72, 2316; P = 0.43). By month four to five following infection, median ALT level had declined sharply in both groups. Among individuals with spontaneous clearance, median ALT returned to normal at month five and remained within the normal range thereafter. In contrast, in those with persistent infection, median ALT levels remained elevated throughout follow-up with intermittent fluctuations (Fig. 2B). Similar results were observed in sensitivity analyses (S2 Fig.) restricted to individuals identified in the so called sero-silent acute HCV phase (HCV RNA positive and anti-HCV negative) given the well-defined estimated date of infection in this sub-group (n = 183). Patterns of HCV RNA levels among individuals with well-characterized acute HCV infection
+To further characterise the different patterns of HCV RNA levels, longitudinal HCV RNA levels were assessed among individuals with well-characterized acute HCV infection (n = 162). Compared to those not included in this analysis (n = 481), included individuals were younger, were less likely to be Caucasians, and more likely to have sympotomatic acute infection (S1 Table).
+Individuals with well-characterized acute HCV infection (n = 162) had a median of 4.5 HCV RNA tests (IQR: 3, 8), with a median of 33 days (IQR: 27, 68) between tests during the first 12 months following estimated date of HCV infection. Median interval from estimated date of infection to the first positive anti-HCV or HCV RNA test was 28 days (IQR: 28, 49). Spontaneous clearance was observed in 52 individuals. Among those with persistent infection (n = 110), 44 individuals demonstrated partial viral control with persistence (defined by ≥1 log IU/mL decline between the peak and the subsequent HCV RNA levels) and 66 individuals demonstrated viral plateau with persistence (defined by increase or <1 log IU/mL decline between the peak and the subsequent HCV RNA levels). HCV RNA levels among individuals with these three HCV RNA patterns are illustrated in Fig. 3. 10.1371/journal.pone.0122232.g003
+Fig 3 Patterns of HCV RNA levels in individuals with well-characterized acute HCV infection in the InC3 study (total n = 162).
+(A) Monthly medians of HCV RNA levels, table underneath represents number of participants with available HCV RNA level measurements at each time point; (B) Fitted HCV RNA patterns, shaded areas represent the 95% confidence intervals. Among 66 individuals with viral plateau and persistence, consistently high HCV RNA levels with irregular fluctuations were observed throughout follow-up. Representative examples of HCV RNA levels among individual cases are shown in S1 Fig. (D, E, F). Intermittent viraemia was observed in four participants in this group during twelve-months of follow-up, including one case of intercalation, three indeterminate cases, and no re-infections.
+Among 44 individuals with partial viral control and persistence, HCV RNA levels declined after the peak and rebounded following months 4–5. Representative examples of HCV RNA levels among individual cases are shown in S1 Figs. (A, B, C). The decline in median HCV RNA levels between month two and five was 3.7 log IU/mL. HCV RNA levels observed after viral rebound were lower than the initial values. The patterns of HCV RNA levels were relatively similar between individuals with partial control and those with viral plateau after months 8–10 following infection. Intermittent viraemia was observed in 10 participants with partial control and persistence during twelve months of follow-up, including six cases of intercalation, four indeterminate cases, and no re-infections.
+Median (IQR) HCV RNA levels at month one following infection were 6.0 log IU/mL (4.3, 7.1), 6.2 log IU/mL (5.2, 7.1), and 5.3 log IU/mL (4.1, 6.0) in individuals with spontaneous clearance, partial viral control with persistence, and viral plateau with persistence, respectively (P = 0.02). Compared to those with viral plateau with persistence, median HCV RNA levels was significantly higher in participants with spontaneous clearance (P = 0.03) and partial viral control with persistence (P<0.01). However, median HCV RNA levels did not significantly differ between participants with partial viral control compared to those with clearance (P = 0.68). Factors associated with patterns of HCV RNA levels
+Among individuals with well-characterized acute HCV, key baseline characteristics were compared among those with viral plateau with persistence (n = 66), partial viral control with persistence (n = 44) and spontaneous clearance (n = 52; Table 2, Fig. 4). Between the three groups, there was a significant difference in the proportion with IFNL3 CC genotype (29% vs. 51% vs. 63%, respectively; P<0.01), median peak HCV RNA level (5.3 log IU/mL vs. 6.0 log IU/mL vs. 6.5 log IU/mL, respectively; P<0.01) and the proportion with peak HCV RNA ≥5.6 log IU/mL (39% vs. 61% vs. 67%, respectively; P<0.01). There was also a trend towards a significant difference in sex across the three groups, with 54% of individuals with spontaneous HCV clearance being female, as compared to 37% in those with partial viral control with persistence and 35% in those with viral plateau with persistence (P = 0.09). 10.1371/journal.pone.0122232.t002
+Table 2 Distribution of selected demographic, clinical and virologic variables by various patterns of HCV RNA levels in individuals with well-characterized acute HCV infection in the InC3 study (n = 162). Viral plateau with persistence (n = 66) n (%)*
+Partial viral control with persistence (n = 44) n (%)*
+Spontaneous clearance (n = 52) n (%)*
+P (across three groups)
+P (Viral plateau vs. Partial viral control) Median age, yrs (IQR**)
+24 (21, 28)
+24 (22, 30)
+24 (21, 28)
+0.66
+0.54 Sex 0.09
+0.80 Male
+43 (65)
+27 (63)
+24 (46) Female
+23 (35)
+16 (37)
+28 (54) Ethnicity 0.65
+0.89 Caucasian
+49 (78)
+35 (81)
+44 (85) Black
+7 (11)
+3 (7)
+1 (2) Indigenous
+2 (3)
+1 (2)
+1 (2) Other
+5 (8)
+4 (9)
+6 (11) IFNL3 genotype (rs12979860) <0.01
+0.03 TT/CT
+42 (71)
+17 (49)
+18 (37) CC
+17 (29)
+18 (51)
+31 (63) HIV status 0.68
+0.65 Negative
+61 (95)
+42 (98)
+48 (98) Positive
+3 (5)
+1 (2)
+1 (2) HCV genotype 0.18
+0.32 Genotype non-1
+29 (45)
+13 (35)
+11 (27) Genotype 1
+35 (55)
+24 (65)
+29 (72) Median peak HCV RNA levels during three months following infection, log IU/mL (IQR**)
+5.3 (3.6–6.0)
+6.0 (5.1–7.2)
+6.5 (5.3–7.2)
+<0.01
+<0.01 Peak HCV RNA levels during three months following infection, log IU/mL <0.01
+0.02 <5.6 log IU/mL
+40 (61)
+17 (39)
+17 (33) ≥5.6 log IU/mL
+26 (39)
+27 (61)
+35 (67) Presentation of acute HCV infection 0.35
+0.24 Simultaneous HCV RNA+ and anti-HCV-
+40 (61)
+33 (75)
+37 (71) Asymptomatic seroconversion†
+18 (27)
+9 (20)
+12 (23) Symptomatic acute HCV‡
+8 (12)
+2 (5)
+3 (6) * Percentages indicate column percentages
+** IQR: Inter-quartile range
+† A negative anti-HCV test followed by a positive anti-HCV/HCV RNA test
+‡ A positive anti-HCV/HCV RNA test and jaundice or ALT elevation >400 U/L 10.1371/journal.pone.0122232.g004
+Fig 4 Distribution of sex, HCV genotype, IFNL3 genotype and peak HCV RNA levels by patterns of HCV RNA levels in individuals with acute HCV infection in the InC3 study.
+(A) Sex, P = 0.09; (B) HCV genotype, P = 0.18; (C) IFNL3 genotype, P<0.01; (D) Peak HCV RNA levels, P<0.01; (E) IFNL3 genotype stratified by sex, male P = 0.03, female P = 0.02. As female sex may have a role in modifying the association of IFNL3 genotype with HCV viral control [8, 18], the proportion of IFNL3 CC genotype was assessed stratified by sex. As shown in Fig. 4E, the difference in the proportion of IFNL3 CC genotype was more pronounced among females compared to males when comparing those with partial viral control with persistence and spontaneous clearance.
+Table 3 presents multinomial logistic regression models of factors associated with viral plateau with persistence, partial viral control with persistence and spontaneous clearance. IFNL3 genotype, sex, HCV genotype and peak HCV RNA levels, were included in subsequent models, given the associations observed in unadjusted analyses (P<0.20). In the two groups with viral persistence, the only factor independently associated with partial viral control (compared to viral plateau) was IFNL3 CC genotype (adjusted odds ratio [AOR]: 2.75; 95% CI: 1.08, 7.02; P = 0.03). In the two groups with viral control, the only factor independently associated with spontaneous clearance (compared to partial viral control with persistence) was female sex (AOR: 2.86; 95% CI: 1.04, 7.83; P = 0.04). Lastly, female sex (AOR: 3.10; 95% CI: 1.18, 8.17; P = 0.02), IFNL3 CC genotype (AOR: 5.00; 95% CI: 1.85, 13.51; P<0.01), HCV genotype 1 (AOR: 3.50; 95% CI: 1.24, 9.87; P = 0.02), and peak HCV RNA level≥5.6 log IU/mL (AOR: 3.77; 95% CI: 1.38, 10.28; P = 0.01) were all independently associated with spontaneous clearance compared to viral plateau with persistence. 10.1371/journal.pone.0122232.t003
+Table 3 Adjusted multinomial logistic regression model assessing factors associated with patterns of HCV RNA levels in individuals with well-characterized acute HCV infection in the InC3 study*. Partial viral control with persistence vs. Viral plateau with persistence** AOR† (95% CI)
+P
+Spontaneous clearance vs. Partial viral control with persistence** AOR† (95% CI)
+P
+Spontaneous clearance vs. Viral plateau with persistence** AOR† (95% CI)
+P Sex Male
+1.00 1.00 1.00 Female
+1.08 (0.42, 2.82)
+0.87
+2.86 (1.04, 7.83)
+0.04
+3.10 (1.18, 8.17)
+0.02 IFNL3 genotype (rs12979860) TT/CT
+1.00 1.00 1.00 CC
+2.75 (1.08, 7.02)
+0.03
+1.82 (0.64, 5.12)
+0.26
+5.00 (1.85, 13.51)
+<0.01 HCV genotype Genotype non-1
+1.00 1.00 1.00 Genotype 1
+1.65 (0.65, 4.20)
+0.29
+2.11 (0.72, 6.21)
+0.17
+3.50 (1.24, 9.87)
+0.02 Peak HCV RNA levels <5.6 log IU/mL
+1.00 1.00 1.00 ≥5.6 log IU/mL
+2.15 (0.85, 5.41)
+0.10
+1.75 (0.59, 5.18)
+0.31
+3.77 (1.38, 10.28)
+0.01 *Included 128 participants in the model
+**Baseline comparison group
+† AOR: Adjusted Odds Ratio This study has characterized the patterns of HCV RNA and ALT levels in a large population with well-defined acute HCV infection, the majority of whom were PWID. Following acute HCV infection, HCV RNA levels reached a high viraemic phase followed by either spontaneous clearance or persistent infection, with the divergence of HCV RNA levels occurring at approximately three months following infection. Two broad patterns of HCV RNA levels were designated a priori among individuals with persistent infection in this study, including viral plateau with persistence and partial viral control with persistence. IFNL3 CC genotype and female sex emerged as the most predictive factors for viraemia patterns. Among individuals who develop viral persistence (viral plateau and partial viral control), IFNL3 CC genotype appears to be the most predictive factor of initial viral control. Furthermore, among those who exhibit some degree of viral control (clearance or partial viral control with persistence), female sex is particularly important for determining whether someone will ultimately spontaneously clear the infection.Differential patterns of HCV RNA levels may reflect a spectrum of immunological viral control during acute infection. Partial viral control with persistence is indicative of a complex pattern of virus–host interaction and can represent loss of immunological control of viral replication due to virological escape from initial innate responses or a failure in the kinetics, magnitude or breadth of HCV-specific adaptive immune responses (reviewed in [16, 36]). Rapid viral evolution occurs during acute HCV infection, with a higher genetic diversity observed among those with ultimate persistence as compared to clearance [11, 25]. Reductions in HCV RNA levels and genetic diversity have been identified within 100 days of infection (a “bottleneck” effect) irrespective of infection outcome, with subsequent increased HCV RNA levels and diversity in those with persistent infection [37]. The pattern of HCV RNA levels in those with partial viral control and persistence obsereved in the current study is consistent with these data, given this control was observed largely between months 3–5 (90–150 days). Vigorous but late onset HCV-specific T-cell responses have been also identified in individuals with transient viral control in acute HCV infection, while ultimately loss of HCV-specific T-cell responses has led to recurrent HCV viraemia and persistent infection (reviewed in [36, 38]). Although two broad patterns of HCV RNA levels were defined among individuals with persistent infection in this study, heterogeneity in individual HCV RNA patterns is still evident in these two groups [3, 12–15].Among individuals with well-characterized acute HCV infection who eventually developed viral persistence, a notable proportion (40%) initially experienced at least one log IU/mL decline in their HCV RNA levels. This finding has clinical implications suggesting that spontaneous clearance cannot be predicted solely based on initial decline in HCV RNA levels.Among individuals with persistent infection, IFNL3 CC genotype was independently associated with partial viral control (either a decrease or fluctuation in HCV RNA). Previous studies have demonstrated that genetic variation in the IFNL3 gene region is associated with both spontaneous and treatment-induced HCV clearance (reviewed in [4, 23]). Our findings suggest that even among individuals who develop persistent infection, IFNL3 CC genotype plays a role in initial viral control. Some other studies also demonstrated an association between IFNL3 CC genotype and higher HCV RNA levels in acute infection, regardless of acute HCV outcome [10, 39], and also in chronic infection [40–42]. Although the mechanisms and role of IFNL3 genotype in viral control and outcome of HCV infection are not fully understood, there is evidence that IFNL3 regulates the interferon stimulated genes (ISGs), required for initial control of viral infection (reviewed in[43]). Another study demonstrated a superior innate immune function, particularly of natural killer cells, to interferon-based therapy in individuals with IFNL3 CC genotype, resulting in improved treatment induced viral control [44]. More evidence is needed to show if there is the same association between IFNL3 genotype and natural killer cells function in acute HCV infection although the existing evidence supports the essential role of natural killer cells in viral control in acute HCV through inducing T-cell responses (reviewed in [45]).Among individuals with viral control, female sex was independently associated with spontaneous clearance, consistent with the increasing literature demonstrating that females exhibit more successful responses to HCV [7, 8, 15, 17, 18]. However, it is interesting that among those with any level of viral control (partial control or clearance), female sex is particularly important for determining HCV clearance outcome. Unfortunately, data on sex-based differences in immunological profiles in individuals with HCV infection are sparse. However, there is evidence of a lower rate of HCV clearance in men compared to women [7, 8, 15, 17, 18] and also in postmenopausal women compared to premenopausal women [46, 47] implicating female hormones, such as estrogens and progesterone, in viral control.Female sex, IFNL3 CC genotype, HCV genotype 1, and higher peak HCV RNA levels were significantly associated with spontaneous clearance when compared to participants with viral plateau and persistence. These findings are consistent with previous data demonstrating the association of female sex [7, 8, 15, 17, 18], IFNL3 CC genotype [8, 19–21], HCV genotype 1 [8, 11, 22] and peak HCV RNA levels [10] with spontaneous HCV clearance following acute infection.The current study did not show any significant association between age and the patterns of HCV RNA levels, although previous studies identified higher spontaneous clearance rate in younger individuals [33]. InC3 participants are generally young, given HCV transmission among PWID generally occurs in young age. However, this study may not able to explore the potential association of age with HCV RNA patterns due to a narrow age range.While the current study is unique given the large sample size and well-defined nature of acute HCV infection, there are several limitations. Participating cohorts bring a range of data types and structures presenting issues surrounding both inconsistent measurement and biological data testing protocols (e.g. HCV RNA assays differed across cohorts with different sensitivity, specificity and lower limit of detection). It is important to note that the definition of partial viral control in this study included either a decrease or fluctuation in HCV RNA, so the HCV RNA curves for partial controllers represent the average curve. There was also heterogeneity in HCV RNA and ALT monitoring schedules across cohorts. We were not able to explore the potential association of individual genotypes with HCV RNA patterns, due to the relatively small numbers of some HCV genotypes. Individuals with well-characterised acute HCV infection were not representative of entire InC3 participants given significant difference in distribution of some background characteristics between this group and the rest of InC3 participants (e.g. age, ethnicity, and sympotomatic acute infection).In conclusion, this study identified factors associated with three broad patterns of HCV RNA levels during acute HCV infection. These findings have important implications for understanding the immunological and genetic features important for the control of HCV infection, and have implications for HCV vaccine research. Further research is required to better understand the mechanisms behind the association of IFNL3 genotype on early viral control and the mechanisms explaining the sex-based immune response to HCV infection."

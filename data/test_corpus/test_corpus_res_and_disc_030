@@ -1,0 +1,114 @@
+"Patient characteristics
+A total of 256 Caucasian patients were genotyped, 162 receiving TVR and 94 receiving BOC with comparable baseline characteristics (S1 Table). A total of 172 (67%) individuals were men. The mean (Standard deviation, SD) age at inclusion was 58.1y (9.8y). Prior treatment response was null in 31 (12%), partial in 108 (42%), breakthrough in 10 (4%) and relapse in 92 (36%) patients. As previously proposed [21,22], null and partial responders were grouped in a “prior non-response” category, and breakthrough and relapse were grouped in a “prior relapse” category for further analyses. Eighty six individuals (33%) were infected with genotype 1a, 147 (57%) with 1b and 21 (8%) with 1c. The mean (SD) hemoglobin level at baseline was 14.6g.dl-1 (1.7g.dl-1), and the mean (SD) platelet count at baseline was 150,000mm-3 (66,000mm-3). As expected by the protocol, patients treated with BOC were more likely to receive 4 weeks lead-in with PegIFN/RBV (95.7% vs 26.5%, P<0.001). Association of SVR status with APOH and IL28B SNPs
+SVR was achieved for 119 (46.5%) patients and no significant difference (P = 0.48) was observed between the two treatment groups. Results of univariate analysis of IL28B and APOH SNPs are presented in Table 1. All APOH SNPs were in Hardy Weinberg equilibrium (HWE), and some of them were in LD (S1 Fig). No significant association was observed between APOH SNPs and SVR. As previously observed in Caucasian individuals, IL28B variants, rs12979860 and rs368234815, were in almost complete LD (r² = 0.94; S1 Fig). As the results for both SNPs were very similar and the call rate of rs12979860 was slightly higher than that of rs368234815, results are presented only for rs12979860. As expected by the selection bias of the sample including only treatment-experienced patients, rs12979860 was not in HWE (P = 9.9x10-6) due to an enrichment of unfavorable allele T for clearance (52% in CUPIC patients vs 32% in the 1000 genomes European population (www.ensembl.org). Despite this skewed distribution, the favorable allele C of rs12979860 was significantly associated with SVR to triple therapy in univariate analysis (P = 2x10-4) with an Odds ratio (OR) of achieving SVR per increase of one copy of the favorable allele C (i.e. ORC/CvsC/T or ORC/TvsT/T) of 2.35 (95% confidence interval: 1.50–3.70) (Table 1 and Fig 1A). The effect of rs12979860 genotype on SVR did not differ significantly between the two treatment groups (Pinteraction = 0.3). 10.1371/journal.pone.0145105.g001
+Fig 1 Rate of SVR by genotypes for IL28B SNPs.
+(A) SVR rates by genotypes for rs12979860 (left panel) and rs368234815 (right panel). (B) SVR rates by genotypes for rs12979860 according to prior treatment response. 10.1371/journal.pone.0145105.t001
+Table 1 Effects of IL28B and APOH variants on SVR and of IPTA variants on anemia in univariate analysis. SNP
+chr:position
+Closest gene (variant type)
+Reference/ alternative (aaf*)
+n
+call rate
+HWE p-value
+OR (95%CI)
+P-value SVR phenotype rs12979860
+19:39248147
+IL28B (intron)
+C/T (0.52)
+254
+99.2
+9.9 10−6
+2.35 [1.50–3.70]
+2.0x10-4 rs368234815
+19:39248514
+IL28B (splice)
+TT/dG (0.52)
+242
+94.5
+3.8 10−7
+2.35 [1.46–3.79]
+4.7x10-4 rs1801690
+17:66212167
+APOH (missense)
+C/G (0.07)
+251
+98.0
+0.62
+1.47 [0.73–2.96]
+0.28 rs1801689
+17:66214462
+APOH (missense)
+A/C (0.04)
+251
+98.0
+1
+0.65 [0.26–1.61]
+0.35 rs52797880
+17:66220736
+APOH (missense)
+A/G (0.08)
+242
+94.5
+1
+1.40 [0.71–2.74]
+0.33 rs8178822
+17:66229411
+APOH (5’UTR)
+G/T (0.08)
+253
+98.8
+1
+1.31 [0.67–2.57]
+0.43 rs12944940
+17:66235598
+APOH (intron)
+T/C (0.21)
+252
+98.4
+0.33
+1.01 [0.64–1.57]
+0.98 rs10048158
+17:66240200
+APOH (intron)
+C/T (0.47)
+251
+98.0
+0.42
+0.96 [0.68–1.36]
+0.84 Clinically relevant anemia rs1127354
+20:3213196
+ITPA (missense)
+C/A (0.06)
+255
+99.6
+1
+1.36 [0.65–2.84]
+0.42 rs7270101
+20:3213247
+ITPA (intron)
+A/C (0.13)
+255
+99.6
+0.83
+1.31 [0.78–2.19]
+0.31 Early Hb decline rs1127354
+20:3213196
+ITPA (missense)
+C/A (0.06)
+209
+99.6
+1
+4.20 [1.38–12.8]
+0.01 rs7270101
+20:3213247
+ITPA (intron)
+A/C (0.13)
+209
+99.6
+0.83
+2.27 [1.20–4.29]
+0.01 * aaf, alternative allele frequency. We performed further multivariate analysis including covariates previously identified as independent predictors of SVR (i.e. prior treatment response, no lead-in phase, platelet count≥100,000mm-3 and HCV-1b subtype [12]) (S2 Table), and showed that rs12979860 was independently associated with SVR (OR = 2.05[1.24–3.48], p = 5.9x10-3). The best predictor of SVR in the multivariate analysis was previous relapse to PegIFN/RBV (OR = 2.69[1.50–4.88], p = 9.6x10-4). Hence, we further explored the combined effect of rs12979860 and prior treatment response on SVR, and found a significant interaction (p = 0.03) between these two factors. As shown in Fig 1B, the effect of rs12979860 on SVR was observed only in prior relapse (P = 8.2x10-4) with a stronger OR of 3.80[1.82–8.92], while this effect is no more significant (P = 0.6) in prior non-responders with an OR of 1.20[0.63–2.33]. Multivariate analysis restricted to previous relapse patients (S2 Table) showed that rs1279860 has the most significant effect on SVR among other known predictors (P = 4.4x10-4) with an OR of 5.01[2.16–13.3]. Overall, our results suggest that the effect of rs12979860 on triple therapy-induced clearance in treatment-experienced patients is restricted to those who experienced prior PegIFN/RBV relapse. Association of anemia with ITPA SNPs
+Clinically relevant anemia and early significant Hb decline were observed in 155 (60.5%) and 89 (42.6%) patients, respectively. Both ITPA SNPs were in HWE (Table 1), and were not in LD (S1 Fig). The frequencies of major alleles of rs1127354 (C) and rs7270101 (A), associated with normal ITPA activity, were 0.94 and 0.87, respectively. In univariate analysis, clinically relevant anemia was associated neither with rs1127354 (p = 0.42), nor with rs7270101 (p = 0.31). In contrast, early significant Hb decline was significantly associated with rs1127354 (ORC/CvsC/A = ORC/AvsA/A = 4.20[1.38–12.8], p = 0.01), and with rs7270101 (ORA/AvsA/C = ORA/CvsC/C = 2.27[1.20–4.29], P = 0.01) (Table 1 and Fig 2A). In multivariate analysis including other predictors of anemia (i.e. age in years, sex, lead-in, Hb at baseline and albumin at baseline [10,12]), rs1127654 and rs7270101 major alleles were strongly and independently associated with early significant Hb decline (rs1127354, OR = 7.83[2.64–29.2], P = 6.0x10-4; rs7270101, OR = 3.28[1.65–6.95], P = 1.2x10-3). 10.1371/journal.pone.0145105.g002
+Fig 2 Rate of early hemoglobin decline by genotypes for rs1127354 and rs7270101 (A) and by predicted ITPA activity (B).
+Severity of ITPA deficiency was defined as in Fellay et al [7] considering rs1127354 C and rs7270101 A equivalent low activity variants. We further explored the joint effect of rs1127354 and rs7270101 by considering as a quantitative covariate the severity of ITPA deficiency estimated from the genotypes at rs1127354 and rs7270101, as shown in S4 Table [7]. Consistent with the SNP effects, clinically relevant anemia was not associated (p = 0.12) with ITPA activity while there was a strong effect of ITPA activity (P = 1.1x10-4) on the rate of early Hb decline ranging from 15% for 30% activity to 52.3% for full activity (Fig 2B). Early significant Hb decline was defined at week 4 of therapy and was the consequence of either PegIFN/RBV alone for patients having had a lead-in or PegIFN/RBV plus TVR or BOC for individuals who started triple therapy without a lead-in. As already shown [8,9], the absence of lead-in (and consequently the triple therapy) was significantly associated (P = 6.4x10-3 in multivariate analysis) with early Hb decline (S3 Table). However, refined analysis showed that the effect of ITPA activity on early Hb decline did not differ significantly (Pinteraction = 0.68) between the groups of patients with or without lead-in, with similar OR values observed in these two groups of 2.45[1.28–5.47] and 2.99[1.62–5.97], respectively. These results indicate that PIs increase the risk of early Hb decline, but do not have a significant influence on the relationship between early Hb decline and ITPA activity.
+Triple therapy using BOC or TVR remains the reference treatment for chronically HCV-1 infected patients in a large number of countries, and is of major importance for patients with cirrhosis who are at risk to develop severe complications as liver failure or hepatocellular carcinoma [23]. However, the overall chance of success with triple therapy is around 50% in those cirrhotic patients and the risk of adverse effects remains high [12]. Therefore, providing information that could help to the prediction of achieving SVR for cirrhotic patients under triple therapy is of major interest [23]. In this study, the unique CUPIC cohort of well characterized treatment experienced cirrhotic patients allowed us refining the association between IL28B SNPs and SVR to triple therapy, and between ITPA SNPs and anemia. IL28B genotype is the strongest predictor of SVR to the standard PegIFN/RBV therapy in patients chronically infected with HCV-1. In treatment-naïve HCV-1 patients receiving TVR or BOC in combination with PegIFN/RBV, the association between IL28B genotype and SVR remains clinically relevant [21,23,24]. We report here that IL28B alleles favorable for clearance were associated with a twofold increase of SVR rate in a cohort of treatment-experienced patients of Caucasian origin, chronically infected by HCV-1, with compensated cirrhosis and receiving either TVR or BOC in triple therapy. Refined analysis showed that the effect of IL28B SNPs was restricted to individuals who previously relapsed (i.e. breakthrough or relapse) to PegIFN alone or PegIFN/RBV therapy, with a stronger effect of these SNPs on SVR in this population. This result suggests that TVR and BOC may potentiate IL28B-dependent clearance transiently induced by PegIFN/RBV therapy, and that IL28B-independent mechanisms are involved in the non-response to PegIFN/RBV therapy.Several studies including both treatment-naïve and treatment experienced HCV patients receiving TVR- or BOC-based therapy have also consistently identified IL28B genotype as a predictor of SVR independent of treatment history [25–28]. However, results of the few studies focusing only on treatment-experienced patients were less conclusive. In a Japanese cohort of 103 treatment-experienced patients, mono-infected with HCV-1b and receiving TVR, the IL28B variant, rs8099917, was an independent predictor of SVR [29]. In the RESPOND-2 study of BOC-based therapy in treatment-experienced patients (N = 207), rs12979860 C/C genotype was predictive of a good interferon response at week 4 but only a non-statistically significant trend was observed with SVR [21]. In the REALIZE study of TVR-based therapy in 422 treatment-experienced patients, SVR rates were slightly higher among patients with rs12979860 C/C genotype compared with C/T and T/T genotypes but the difference was not statistically significant [22]. In these two latter studies, patients included variable proportions of prior responders (slightly higher in the RESPOND-2 than in the REALIZE study), and a rather low proportion of cirrhotic patients (<30%). Further studies are needed to identify the factors, like prior response, ethnic origin, liver fibrosis status, or HCV-1 genotype, which could explain the differences observed in the strength of association between SVR and IL28B genotype in treatment-experienced patients receiving either TVR or BOC.No significant association was observed between APOH SNPs and SVR. One explanation could be that the impact of each individual variant on apoH levels is not large enough to further impact on SVR. Moreover, our study was underpowered to detect an association signal between SVR and variant with minor allele frequency below 0.1, which is the case for four of the six tested APOH SNPs. As an example, the power to detect an association between SVR and the missense SNP rs1801690 was 55% at the 0.05 type I error level for an additive OR of 2. Finally, despite a careful literature search and public database screening, we may have missed some variants impacting on apoH levels that are not identified yet.Anemia is a well-established adverse event with PegIFN/RBV treatment of chronic HCV infection and the addition of PIs, such as TVR and BOC, has significantly increased its incidence [8,9]. Our data are consistent with this observation as the patients without lead-in had a higher rate of early Hb decline. The role of ITPA polymorphisms on early Hb decline and/or early anemia was identified by GWAS [7] and further replicated in different ethnic groups treated both by PegIFN/RBV [30–35], and by a triple combination therapy with TVR [31,36]. Here, we confirmed the protective effect of low ITPA activity variants on early Hb decline in treatment-experienced patients having received pegIFN/RBV alone or triple therapy combination for 4 weeks. We could also show that the relationship between ITPA SNPs and early Hb decline was not influenced by the presence of PIs, indicating that the effect of PIs on Hb decline is probably independent of ITPA activity. In our study, ITPA deficiency did not protect against clinically relevant anemia, which has a broader definition based on both Hb decline and anemia management during the whole period, a finding consistent with the previous study of Aghemo et al. [36].Overall, our results suggest that the screening of rs12979860 remains interesting for decision making in Caucasian difficult-to-treat HCV-1 patients (in particular if they presented a prior PegIFN/RBV relapse) with compensated cirrhosis eligible for a PI-based triple therapy. In those patients, the genotyping of ITPA SNPs are very useful to predict the development of early severe Hb decline."

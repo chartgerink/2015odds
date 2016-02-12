@@ -1,0 +1,206 @@
+"Patient population
+The 1,450 patients' features are summarized in Table 1. Most patients were males (62%), all were Caucasians, and 160 (11%) were spontaneous clearers. The minor allele frequencies of CCR5delta32 and IFNL3 rs12979860 were 8.6% and 36.8%, respectively. The frequency of CCR5delta32 was similar in patients with or without HIV coinfection (Fischer test, P = 0.87).
+10.1371/journal.pone.0106424.t001Table 1
+Patient characteristics. Chronic infection
+Spontaneous clearance N = 1290
+N = 160 Male gender1
+0.62
+0.54 Caucasian ethnicity
+1.0
+1.0 Median age at infection (IQR)2
+20 (9)
+38 (19) HCV reported risks Drug use
+0.46
+0.24 Invasive procedures/needle stick
+0.24
+0.22 Transfusion
+0.18
+0.29 Other/Unknown
+0.13
+0.24 HCV genotype3 1
+0.49
+NA 2
+0.09
+NA 3
+0.28
+NA 4
+0.10
+NA Alcohol consumption4 >40 g/d for ≥5 years
+0.21
+NA Diabetes
+0.06
+NA Median BMI (kg/m2, IQR)5
+24 (5)
+NA HIV+6
+0.08
+NA Response to pegylated IFN-alpha and ribavirin therapy7
+0.60
+NA Liver histological features Histological activity8 A0
+0.42
+NA A1-A3
+0.58
+NA A0-A1
+0.83
+NA A2-A3
+0.17
+NA Fibrosis stage (Metavir)9 F0-F1
+0.44
+NA F2-F4
+0.56
+NA Steatosis10
+0.63
+NA Numbers are the proportion of patients with the indicated feature.1Gender was missing in 1 patient with spontaneous clearance.2Age at estimated date of infection for patients with chronic infection, at cohort entry for those with spontaneous clearance (missing in 2 patients).3HCV genotype was missing in most patients with spontaneous clearance and in 46 chronically infected patients.4Alcohol consumption data before treatment was missing in 18 patients.5BMI treatment was missing in 215 patients.6HIV serology was missing in 214 patients.7Response treatment was assessable in 693 patients.8Histological activity before treatment was missing in 279 patients.9Fibrosis stage before treatment was missing in 273 patients.10Steatosis data before treatment were missing in 155 patients.
+The most frequently reported risk factor among chronically infected patients was the use of intravenous drugs (46%). Alcohol consumption >40 g/day in the 5 past years was reported in 21% of chronically infected patients, HIV coinfection in 8% and diabetes in 6%. Of note, none of the HIV-infected patients were carriers of the CCR5delta32 allele at the homozygote state.
+Liver fibrosis was assessed at histology in 1,017 patients before any anti-HCV treatment susceptible to modify Metavir scores: 921 had an estimated infection date, making them assessable for the fibrosis progression rate estimation. Significant (≥A2) and severe (≥A3) inflammation were present in 58 and 17% of the patients, respectively, while significant (≥F2) and severe fibrosis (≥F3) were present in 56 and 27% of the patients, respectively, 16% of them having cirrhosis (F4). As expected, the median fibrosis progression rate was not normally distributed, with a median of 0.08 (interquartile range = 0.093), and a mean of 0.108 (range 0-1) fibrosis units per year. Six hundred ninety three patients were assessable for response to treatment with pegylated IFN-alpha and ribavirin, and 60% of them reached SVR. Chronic vs. spontaneously cleared HCV infection
+Carriage of CCR5delta32 was observed in 11% of spontaneous clearers compared to 17% of chronically infected patients (OR = 0.59, 95% CI interval 0.35–0.99, P = 0.047). The association between CCR5 deletion and HCV spontaneous clearance was similar albeit less significant when patients with positive HIV serology were removed (P = 0.09) (Table 2). The association was slightly less significant in a multivariate model (OR = 0.60, 95% CI 0.35–0.99, P = 0.07), after adjustment for relevant covariates, including IFNL3 rs12979860 (OR = 0.35, 95% CI 0.24–0.49, P = 2.8E-9), male sex (OR = 0.76, 95% CI 0.53–1.07, P = 0.12), and infection by invasive procedure or needle stick (OR = 1.61, 95% CI 0.98–2.63, P<0.001), blood transfusion (OR = 2.91, 95% CI 1.81–4.66, P = 0.06), or through another risk (OR = 3.55, 95% CI 2.17–5.81, P<0.001), compared to drug use (Table 3). Yet, the number of patients in the multivariate analysis was smaller (N = 1400), due to the fact that certain patients had missing covariates.
+10.1371/journal.pone.0106424.t002Table 2
+Association of CCR5delta32 with different HCV-related endpoints. CCR5delta321 Variable
+absent
+%
+present
+%
+OR (95% CI)
+P Spontaneous clearance2 No
+1073
+0.83
+217
+0.17
+Reference Yes
+143
+0.89
+17
+0.11
+0.59 (0.35–0.99)
+0.047 Sustained virological response No
+228
+0.83
+47
+0.17
+Reference Yes
+340
+0.81
+78
+0.19
+1.11 (0.75–1.66)
+0.6 Fibrosis stage (Metavir) F0-F1
+372
+0.84
+71
+0.16
+Reference F2-F4
+472
+0.82
+104
+0.18
+1.15 (0.83–1.60)
+0.4 Fibrosis progression rate <0.08
+378
+0.82
+82
+0.18
+Reference ≥0.08
+388
+0.84
+74
+0.16
+0.88 (0.62–1.24)
+0.5 Inflammation A0
+359
+0.86
+61
+0.15
+Reference A1-A3
+480
+0.81
+114
+0.19
+1.38 (0.99–1.95)
+0.06 A0-A1
+700
+0.83
+139
+0.17
+Reference A2-A3
+137
+0.79
+37
+0.21
+1.36 (0.91–2.04)
+0.1 Steatosis absent
+252
+0.83
+52
+0.17
+Reference present
+538
+0.82
+115
+0.18
+1.04 (0.72–1.49)
+0.8 1Due to the relative low CCR5delta32 allele frequency (8.6%), data are presented for the dominant mode of inheritance.2The number patients carrying 0, 1 or 2 copies of CCR5delta32 were 1073, 202 and 15 for patients with chronic infection and 143, 16 and 1 for spontaneous clearers. The associations were also tested by using the additive (OR = 0.61, 95% CI 0.38–1.00, P = 0.05) and recessive (OR = 0.53, 95% CI 0.07–4.07, P = 0.5) modes of inheritance. The association was similar albeit less significant when patients with positive HIV serology were removed (OR = 0.63, 95% CI 0.36–1.08, P = 0.09).10.1371/journal.pone.0106424.t003Table 3
+Factors associated with spontaneous HCV clearance. Univariate
+Multivariate OR (95% CI)
+P
+OR (95% CI)
+P CCR5delta32 (dominant)
+0.59 (0.35–0.99)
+0.047
+0.60 (0.35–1.04)
+0.07 IFNL3 rs12979860 (dominant)
+0.36 (0.27–0.51)
+5.9E-9
+0.35 (0.24–0.49)
+2.8E-09 Male gender
+0.71 (0.51–0.99)
+0.04
+0.76 (0.53–1.07)
+0.12 Risk factors Drug use
+Reference Reference Invasive procedure, needle stick
+1.77 (1.10–2.86)
+0.02
+1.61 (0.98–2.63)
+<0.001 Blood transfusion
+3.04 (1.92–4.80)
+<0.001
+2.91 (1.81–4.66)
+0.06 Other/missing
+3.47 (2.14–5.61)
+<0.001
+3.55 (2.17–5.81)
+<0.001 Other phenotypes
+Carriage of the CCR5delta32 allele was not associated with SVR (P = 0.6), fibrosis stage (P = 0.4), fibrosis progression rate (P = 0.5), or steatosis (P = 0.8). However, it tended to be observed more frequently among patients with liver inflammation (19%) compared to those without inflammation (15%, OR = 1.38, 95% CI interval 0.99–1.95, P = 0.06) (Table 2). However, the trend was weaker in a multivariate model (OR = 1.35, 95% CI 0.91–2.01, P = 0.14), after adjustment for IFNL3 rs12979860 (P = 0.08), age at infection (P = 0.008) and steatosis (P<0.001) (Table 4).
+10.1371/journal.pone.0106424.t004Table 4
+Factors associated with liver histological activity. Univariate
+Multivariate OR (95% CI)
+P
+OR (95% CI)
+P CCR5delta32 (dominant)
+1.38 (0.99–1.95)
+0.06
+1.35 (0.91–2.01)
+0.14 IFNL3 rs12979860 (dominant)
+0.76 (0.58–0.99)
+0.04
+0.76 (0.55–1.03)
+0.08 Male gender
+1.43 (1.11–1.85)
+0.006 Age at infection (continuous)
+1.02 (1.01–1.04)
+<0.001
+1.02 (1.01–1.04)
+0.008 Log HCV RNA IU/ml(continuous)
+0.86 (0.76–0.98)
+0.02 Steatosis
+2.33 (1.76–3.10)
+<0.001
+2.36 (1.73–3.22)
+<0.001 HCV genotype 1
+Reference 2
+1.47 (0.93–2.33)
+0.01 3
+1.32 (0.98–1.77)
+0.07 4
+0.82 (0.53–1.25)
+0.4 Other/missing
+1.03 (0.35–3.01)
+1.0 Note: stepwise logistic regression (cutoff P = 0.15).Our study is based on the largest cohort of Caucasian anti-HCV positive patients with the most exhaustive determination of CCR5delta32 and other variables potentially associated with HCV clearance. With 15.1% of them being heterozygous and 1.1% homozygous for CCR5delta32, it is representative of the expected distribution of this allele in a Caucasian population.The aim of our study was to clarify the potential role of CCR5delta32 in the outcome of HCV infection. With the new perspective of treatment of HCV-HIV co-infected patients with CCR5 antagonists such as maraviroc, a current anti-HIV therapy, this is an important question to debate in terms of safety and efficacy.Firstly, we analysed the relationship between CCR5delta32 and HCV spontaneous clearance. By univariate analysis, HCV clearance was negatively associated with homo- or heterozygous CCR5delta32, polymorphisms at IFNL3 rs12979860, male gender, and positively associated with HCV acquisition through intravenous drug use, invasive procedures and especially by blood transfusion. Considering the possibility of some bias induced by co-infection with HIV and by the interaction between HIV and CCR5, we performed the same analysis after exclusion of co-infected patients: the association between CCR5 deletion and HCV spontaneous clearance was similar albeit less significant when patients with positive HIV serology were removed (P = 0.09). The association between the CCR5delta32 and HCV clearance barely lost statistical significance after adjustment for IFNL3 rs12979860 and male gender. This observation matches the hypothesis that a reduced expression of CCR5 at the cell surface would impair the recruitment of Th1-expressing cells into the liver to mediate the clearance of HCV-infected hepatocytes, promoting persistence of HCV infection [15]–[17].The currently available data on the frequency of CCR5delta32 in HCV-infected vs -cleared individuals are not unequivocal. Our results, based on a large cohort of 1,450 patients, are in conflict with some smaller studies. A recent Egyptian study enrolling 190 HCV-infected patients, mainly with HCV genotype 4 and coinfected with Schistosoma mansoni, showed a highly significant positive association between spontaneous HCV clearance and CCR5delta32 [22]. In another series of 283 female patients with HCV genotype 1, Goulding et al. showed an association between CCR5delta32 and an increased rate of spontaneous clearance [23]. In more recent work, on the other hand, Nattermann et al. [24] evaluated a cohort of 396 Caucasian female patients infected with a single source of HCV genotype 1 and showed that both IFNL3 rs1297860 CT/TT and CCR5delta32 variants were independently associated with a decreased rate of spontaneous HCV clearance. An increased prevalence of CCR5delta32 homozygosity was reported in haemophilic patients with chronic HCV infection, with or without HIV coinfection, compared with the general population [25], suggesting that CCR5delta32 may favor HCV persistence. Thus, considering all these data together, if on the one hand patients with HCV infection and CCR5delta32 may be protected against HIV, on the other hand the functional blockade of CCR5 with drugs (e.g. maraviroc) in HIV-infected people may be associated with increased risk of progression to persistence in case of primary HCV infection.Based on the assumption that a decreased expression of CCR5 impairs the Th1 response, we assessed whether the CCR5delta32 allele may influence the response to pegylated IFN-alpha and ribavirin therapy. The efficacy of IFN-alpha has been attributed to its ability to partially up-regulate CCR5 expression on T cells [26]. Our results show that this CCR5 polymorphism did not play any significant role in the anti-HCV treatment response, while at the same time confirming the very well known role played by severe fibrosis, older age, higher pretreatment HCV RNA, genotype 2 and 3 and IFNL3/4 genetic polymorphisms. As already known, the latter are currently the strongest host genetic markers to predict IFN-alpha-based treatment-induced HCV clearance, and, as demonstrated in a recent and large serie of 813 Caucasian patients with chronic hepatitis C genotype 1 [27], CCR5delta32 did not improve prediction of SVR in the context of the IFNL3 polymorphisms. These results match those of previous, smaller series [28]–[31], but appear in conflict with those of an early study which had identified CCR5delta32 carriage as an independent negative predictor for the end of treatment virological response to the less potent IFN-alpha monotherapy [30]. This suggests that the role of CCR5delta32 may no longer be relevant in predicting the treatment-induced clearance of HCV when more powerful regimens are used.If CCR5 is partly responsible for the recruitment of Th1 cells, a decreased expression of CCR5 should result in milder inflammation, as showed by Hellier and Goulding [18], [22].Immunohistochemical analysis of liver biopsies of patients chronically infected with HCV genotype 1 showed a significant positive correlation between the percentage of intrahepatic CCR5 high-expressing CD8+ cells and both porto-periportal and lobular activity [32].Other studies [31], [33] reported a lack of correlation between CCR5 deletion and liver inflammation. Our data show a trend towards increased inflammation in the presence of CCR5delta32. Considering the relationship between CCR5 and TH1 cells, this observation is difficult to explain. However, it is known that CCR5 is not the only chemokine receptor involved in Th1 response [32], [34]: also CXCR3 and CXCR6 play a major role in recruiting cytotoxic T cells and secreting type 1 cytokines in the liver, and it is likely that, in case of the CCR5 deletion, other chemokine receptors may contribute to the inflammatory response. The positive correlation between CCR5delta32 and inflammation was found only when considering A0 vs A1-3 but disappeared when considering A0-1 vs A2-3, suggesting that CCR5 deletion probably does not play any role in significant inflammation.Finally, we aimed to study fibrosis and fibrosis progression rate as a function of CCR5 expression. CCR5 is recognised as an important mediator of pro-fibrogenic signalling in HSCs and the CCR5 deletion should protect against fibrosis progression. Recently, Bruno et al. [14] demonstrated that the HIV envelope glycoprotein gp120 directly acts on HSCs through the use of the CCR5 receptor. The link between homozygous CCR5delta32 and HCV fibrogenesis has been analysed in several studies. CCR5-deficient mice displayed reduced hepatic fibrosis and macrophage infiltration [35]. Hellier et al [18] evaluated a cohort of 623 HCV-infected patients and found a significant association between the CCR5delta32 homozygous genotype and reduced portal inflammation and milder fibrosis.Most of the other studies failed to demonstrate any significant relationship between the CCR5delta32 mutation and the course of chronic hepatitis C [22], [28], [31], [33]. Our work did not identify any association between CCR5delta32 and liver grading or staging. When considering only CCR5delta32 homozygous patients, severe and significant fibrosis were found in 8 and 25% of patients, respectively, vs 28 and 54% in patients with the wild type CCR5. However the number of homozygous patients was too small to reach any statistical significance. As already suggested by several studies [33], [36]–[39], the use of CCR5 antagonist such as maraviroc, should be safe in patients with HIV and chronic hepatitis C, at least as far as liver histology and the efficacy of anti-HCV treatment are concerned. A pilot clinical trial suggested that maraviroc may even reduce the liver fibrosis progression in HIV-HCV coinfected patients [39]. Our data do not support a potential antifibrotic effect of CCR5delta32, perhaps due to the small number of CCR5delta32 homozygous patients and also to the prevailing effect of other pro-fibrogenic variables. Only a large randomized prospective study might assess this effect of the CCR5 antagonist, if any. An anti-HIV investigational drug, the cenicriviroc, being both a CCR5 and CCR2 inhibitor, demonstrated good antiviral activity and tolerability in a Phase 2 clinical trial. Whether this new anti-inflammatory activity on the top of a CCR5 blockage could be efficient to decrease fibrosis rate in HCV- (co-) infected patients remains to be proven.In conclusion, our results, based on a large cohort of 1,450 HCV-infected patients, genotyped for the CCR5delta32 allele and representative of the distribution of this allele in a Caucasian population, showed that that both IFNL3 rs1297860 CT/TT and CCR5delta32 alleles were associated with a decreased spontaneous HCV clearance, although the multivariate analysis barely failed to reach statistical significance for the latter. The CCR5delta32 deletion was not associated with fibrosis, fibrosis progression rate, or therapy response. In the view that CCR5 inhibitors are now available for HIV treatment, this is an important observation: our data suggest that these drugs could impair the odds of spontaneous clearance of acute HCV infection in HIV-infected patients on active treatment with anti-CCR5. However drug-induced impairment of CCR5 signaling should neither modify HCV histological outcomes nor impair the efficacy of anti-HCV therapy."

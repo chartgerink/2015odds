@@ -1,0 +1,94 @@
+"Analysis of metabolic pattern
+UPLC–MS based metabolomic approach was carried out to differentiate HBV patients from controls. OPLS-DA showed clear separation between the HBV groups and healthy group in both positive (Fig. 1A) and negative ion modes (Fig. 2 A). Trajectory analysis on 3-D score plots for the the control and HBV groups showed obvious segregation (Fig. 1B and 2 B). Overall 7319 retention time-exact mass pairs were determined in urine sample profile. From the corresponding the loading plots, the ions furthest away from the origin may be therefore regarded as the differentiating metabolites (Fig. 1C, and 2C). Combining the results of S- and VIP- plots from the OPLS analysis (Fig. 1D, and 2D), UPLC-HDMS provided the retention time, precise molecular mass and MS/MS data for the identification of biomarkers. A Wilcoxon Mann-Whitney test was performed and it was found that 11 ions (VIP>7) significantly changed (p<0.05) between the disease and the control groups. Finally, potential biomarkers of significant contribution were listed in table 1. MetaboAnalyst's data annotation tools revealed differences between the two groups (Fig. 3). Heatmap visualization, commonly used for unsupervised clustering, (Fig. 3A) for the HBV and controls showed distinct segregation.
+10.1371/journal.pone.0064381.g001Figure 1
+Metabolomic profiling of HBV.
+OPLS-DA model results for HBV group in positive mode (A). 3-D of OPLS-DA model for HBV group (B). Loading plot of OPLS-DA of HBV in positive mode (C). Panel D shows the combination of S- and VIP-score plots constructed from the supervised OPLS analysis of urine (ESI+ mode). Ions with the highest abundance and correlation in the HBV group with respect to the controls are present on the upper far right hand quadrant, whereas ions with the lowest abundance and correlation in the HBV group with respect to the control group are residing in the lower far left hand quadrant.
+10.1371/journal.pone.0064381.g002Figure 2
+Metabolomic profiling of HBV.
+OPLS-DA model results for HBV group in negative mode (A). 3-D of OPLS-DA model for HBV group (B). Loading plot of OPLS-DA of HBV in positive mode (C). Panel D shows the combination of S- and VIP-score plots constructed from the supervised OPLS analysis of urine (ESI− mode).
+10.1371/journal.pone.0064381.g003Figure 3
+Heatmap visualization and hierarchical clustering analysis with MetaboAnalyst's data annotation tools constructed based on the differential metabolites of importance for the urine of HBV (A).
+Rows: samples; Columns: metabolites; Color key indicates metabolite expression value, blue: Lowest, red: highest. The significance analysis for microarrays method used to select 4 marker metabolites (B). ROC curves for the diagnosis between controls and HBV patients using data from conventional clinical chemistry markers and the metabolic markers (C). The unsupervised clustering dendrogram of prediction and diagnostic potential of the marker metabolites, tested our approach using a second set of HBV (n = 10) patients and control subjects (n = 10) to be blindly selected (D).
+10.1371/journal.pone.0064381.t001Table 1
+Identification of urinary biomarkers in HBV cases. No.
+Rt
+[M+H]+
+[M−H]−
+Formula
+Name
+Trend
+VIP
+P-value 1
+2.78
+181.0415 C9H12N2O2
+Tyrosinamide
+↑
+7.31
+0.01 2
+3.39
+265.1142 C13H16N2O4
+Alpha-N-Phenylacetyl-L-glutamine
+↓
+10.26
+0.01 3
+3.61
+277.0288 C10H16N2O5S
+Biotin sulfone
+↑
+7.44
+0.00 4
+5.34
+117.0837 C6H13O2
+Hexanoic acid
+↑
+9.52
+0.02 5
+6.19
+341.1915 C21H40O3
+5-oxo-heneicosanoic acid
+↓
+7.01
+0.00 6
+7.38
+502.0894 C18H35N3O13
+D-Glucosaminide
+↓
+7.73
+0.00 7
+9.35
+144.0735 C10H10N
+1-aminonaphthalene
+↑
+8.89
+0.01 8
+2.59 172.6996
+C6H6O4S
+Phenyl sulfate
+↓
+6.13
+0.04 9
+3.36 383.3392
+C27H43O
+7-Dehydrocholesterol
+↑
+5.06
+0.00 10
+3.81 186.7564
+C9H16O4
+Azelaic acid
+↑
+7.09
+0.01 11
+4.32 192.6908
+C10H9NO3
+2-Methylhippuric acid
+↓
+7.43
+0.00 Identification and selection of biomarkers
+According to the above OPLS-DA model, a total of 11 variables (ions) with a VIP>7 were selected. Here, a biomarker with Rt-m/z of 2.78–181.0415 in positive ion mode was detailed as an example to illustrate the identification process. Using a mass tolerance of 5mDa, C9H12N2O2 was located as the candidate because of its high mass accuracy (−0.2 mDa or −0.5 ppm) and low i-fit value (1.6) among the possible chemical formulas. And then, C9H12N2O2 was input in the METLIN, (http://metlin.scripps.edu/) for possible compound, and tyrosinamide was finally emerged, which was further confirmed by comparing it to its authentic standards. At the defined operational conditions, all of the metabolites in a total ion chromatogram were extracted and aligned using the EZinfo software 2.0 (Waters Corp., Milford, USA), 11 discriminant metabolites were identified (table 1). Finally, these metabolites were selected as candidate markers for further validation. The SAM method was used to select the most discriminant and interesting biomarkers. The results indicated that biotin sulfone, 5-oxo-heneicosanoic acid, d-Glucosaminide and 2-methylhippuric acid were the most significant differential metabolites for the classification of the HBV and the control (Fig. 3B). Validation of metabolite markers
+In order to test the usefulness of marker metabolites to discriminating HBV from controls, a second set of HBV (n = 10) patients and control subjects (n = 10) to be blindly selected. Four marker metabolites had a sensitivity of 92.83% and a specificity of 91.27% (the cutoff value: 0.66, Fig 3C), whereas the results of ALT, AST and LB (the cutoff value: 0.54) for these patients were 64.53%, 59.91% and 63.10%, respectively. Furthermore, the ROC curve analysis of the 4 marker metabolites yielded an AUC of 0.807, which was greater than that of ALT (0.619), AST (0.624) and LB (0.628), respectively. The unsupervised clustering further showed that using 4 metabolites biomarkers we can discern the controls and HBV cases being classified correctly (Fig. 3D). Metabolic pathway and function analysis
+The detailed analysis of the most relevant pathways of HBV were performed by MetaboAnalyst's tool that is a free, web-based tool that combines result from powerful pathway enrichment analysis involved in the conditions under study. Consequently, potential metabolic pathway with MetaboAnalyst revealed that metabolites which were identified together are important for the host response to HBV. Three metabolic pathway of importance including metabolism of xenobiotics by cytochrome P450, phenylalanine metabolism, amino sugar and nucleotide sugar metabolism were found to be disturbed in HBV patients. The altered phenylalanine metabolism pathways with higher score was generated using the reference map by searching KEGG (Fig. 4).
+10.1371/journal.pone.0064381.g004Figure 4
+Construction of the altered phenylalanine metabolism pathways in human HBV disease.
+The map was generated using the reference map by KEGG. CO represents entry number of compound.
+Infections with HBV represent a significant cause of morbidity and mortality worldwide and constitute a problem of global public health importance. The WHO estimates that, currently, more than two billion individuals among the global population have been infected with HBV and of these, approximately 360 million are chronically infected [21]. Furthermore, it is estimated that as much as one third of the world population have been exposed to HBV [22]. Invasive LB is presently the best means of diagnosing cirrhosis, but it carries a significant risk and has well recognised limitations such as sampling error, hence the importance in developing early diagnosis biomarkers, hindering the comprehensive understanding to this severe disease[23]. Because of limitations in conventional approaches, several noninvasive tests have been developed for this purpose. Considering these limitations and patients' reluctance to undergo a LB, there is a need for the development of novel noninvasive techniques to detect early liver damage. With recent advances in metabolomics, biomarkers can now be identified by discovery strategies that are not limited by our existing biological knowledge. With this aim, we performed a pilot metabolomic study to assess this as a strategy for urine marker detection in patients suffering from HBV-associated liver cirrhosis.Currently, researchers have focused on protein and gene levels, while the associated metabolic variations have been poorly understood. In our study, an UPLC–TOF/MS-based urine metabolomics approach coupled with multivariate statistical methods provide a powerful approach to clearly differentiate patients with HBV from matched control subjects and identify the potential biomarkers. Results indicate that OPLS-DA revealed an evident and statistically significant separation between the HBV and control samples. Differential metabolites identified from the metabolomic analysis suggest a disrupted the metabolism of xenobiotics by cytochrome P450, phenylalanine metabolism, amino sugar and nucleotide sugar metabolism. Interestingly, 11 distinct metabolites identified from these pathways, many are in various stages of progress at the HBV. Further study of these metabolites may facilitate the development of non-invasive biomarkers and more efficient therapeutic strategies for HBV. Computational systems analysis with MetaboAnalyst tools provides a powerful approach to metabolic profiling of urine to differentiate patients from control subjects. The patients with HBV were easily distinguished from control subjects by Heatmap approach when using autoscaling methods. Discover the early biomarkers of the occurrence and development of HBV would be helpful for the prevention and treatment. The study was firstly focused on the systemic metabolic changes in the human urine metabolome and the targeted metabolomics provides a global view to monitor the dynamic metabolic alterations of HBV processes.SAM method was used to select the most most discriminant and interesting biomarkers. Biotin sulfone, 5-oxo-heneicosanoic acid, d-glucosaminide and 2-methylhippuric acid were the most significant differential metabolites for the classification of the HBV and the control (Fig. 3B). Biotin sulfone is a natural biotin metabolite in human urine. D-dlucosaminide is an intermediate in the human aminosugars metabolism. Methylhippuric acid is an acyl glycine that is normally minor metabolites of fatty acids. However, the excretion of certain acyl glycines is increased in several errors of metabolism. In certain cases the measurement of these metabolites in body fluids can be used to diagnose disorders associated with mitochondrial fatty acid beta-oxidation. To determine whether the 4 metabolic markers that were identified could be used for clinical HBV diagnosis, we performed a preliminary validation using the sera from 10 patients with HBV diseases. Compared with the traditional HBV biomarker ALT and AST, the combinational metabolic markers showed a better sensitivity. As shown in Fig. 3C, when biotin sulfone, 5-oxo-heneicosanoic acid, d-Glucosaminide and 2-methylhippuric acid, were used as biomarkers, the HBV-positive group could be clearly separated from the control group in HBV prediction. The unsupervised clustering further showed that using four metabolites biomarkers we can discern the controls and HBV cases being classified correctly (Fig. 3D). HBV patients was successfully differentiated from healthy controls with an accuracy of 100% using a panel of metabolite markers. Our work shows that metabolomic profiling approach is a promising screening tool for the diagnosis of HBV patients. The utility of urine metabolome diagnostics for HBV is successfully demonstrated in this study and these results suggest that metabolomics approach complements the clinical detection of HBV, leading to an improved disease diagnosis and prognosis.Identification of metabolic biomarkers has the potential to improve diagnostic, prognostication and therapy [24], [25]. Deciphering the molecular networks that distinguish diseases may lead to the identification of critical biomarkers for diseases [26]. Metabolic pathways incorporate complex interaction networks, are usually considered to provide information on mechanisms of disease and have become a common and probably the most popular form of representing biochemical information for hypothesis generation and validation. Pathway and network analyses have both been applied to metabolomic analysis, which vastly extends its clinical relevance and effects. Thus, metabolomics holds promise for early diagnosis, increased choice of therapy and the identification of new metabolic pathways that could potentially be targeted in liver disease. Based on the KEGG, a detailed construction of the the altered tyrosine metabolism pathways map with higher score is shown in Fig. 4. Result suggest that these target pathways show the marked perturbations over the entire time-course of HBV and could contribute to the development of HBV. These biochemical changes are helpful to understand the key features of HBV. In addition, these metabolic features provided useful clues for future mechanism exploration and identification of therapeutic targets of HBV.In the present study, a full spectrum of metabolic aberrations that are directly linked to HBV patients is critical for developing and deploying molecular diagnostic and therapeutic approaches that will significantly improve patient survival. Our studies examined a range of metabolites that represented the metabolic regulation of HBV patients and illustrated the ability of metabolomics to identify the potential biomarkers of HBV. Here, we observed a number of dysregulated metabolic pathways, such as metabolism of xenobiotics by cytochrome P450, phenylalanine metabolism, amino sugar and nucleotide sugar metabolism. A panel of metabolite markers composed of biotin sulfone, 5-oxo-heneicosanoic acid, d-glucosaminide and 2-methylhippuric acid was selected, which was able to discriminate HBV subjects from their healthy counterparts. These potential metabolite markers provide a novel and promising molecular diagnostic approach for the early detection of HBV. The results not only indicated that urine metabolomic methods had sufficient sensitivity and specificity to distinguish HBV from healthy controls, but also have the potential to be developed into a clinically useful diagnostic tool, and could also contribute to a further understanding of disease mechanisms."

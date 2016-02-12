@@ -7,5 +7,6 @@ found to be associated with MetS. Genotype TT of SNP rs4402960 within the gene I
 gene MTHFR was associated with hypertension (OR = 1.560, 95% CI: 1.194–2.240, p = 0.001). However, these associations
 were not observed in the longitudinal analyses"
 x <- statcheck(txt)
+x
 
 write.csv(x, 'data/example_01.csv', row.names = FALSE)

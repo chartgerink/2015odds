@@ -1,0 +1,74 @@
+"rs8099917 SNP prevalence
+Of the 160 patients in the study, 86 (54%) were chronically infected with HCV genotypes 1, 46 (29%) with HCV genotype 3, and 28 (17%) with HCV genotype 4 (Table 1). To genotype the rs8099917 SNP, we developed a direct sequencing PCR-based protocol. Genotyping revealed a high prevalence of G alleles (TG or GG) in our study cohort (n = 56, 35%) (Table 2). rs8099917 genotypes were in the Hardy-Weinberg equilibrium (P = 0.118). No significant associations were found between the rs8099917 SNP genotype and patient sex, age, CD4+ T cell count, HBV infection, liver enzyme levels, liver fibrosis, or HCV RNA viral load (data not shown). The proportion of the rs8099917 TT, TG, and GG genotypes were 60%, 35%, and 5% among HCV genotype 1 patients; 78%, 15%, and 7% among genotype 3 patients; and 57%, 29%, and 14% among genotype 4 patients. Genotypes 1 and 4 showed similar proportion of G alleles, 40% and 43%, respectively. Interestingly, there was a significant difference between the prevalence of G alleles in HCV genotype 3-infected patients, 22%, and the prevalence in patients infected with HCV genotypes 1 or 4 (P<0.05, Chi-square test). The lower proportion of the G allele in genotype 3-infected patients suggested that G carriers may be less prone to be chronically infected by genotype 3 viruses or, alternatively, that the rs8099917 homozygous TT genotype is not associated with spontaneous clearance of HCV genotype 3.
+10.1371/journal.pone.0013771.t001Table 1
+Clinical Characteristics of patients with chronic HIV-1 and HCV co-infection and treated with peg-IFN-α/RBV therapy. Treatment Success
+Treatment Failure
+P Patients, n (%)
+67 (42%)
+93 (58%)
+- Age (mean ± SEM)
+48.42±0.6773
+47.21±0.6283
+ns Gender, n (%) ns Female
+24 (45%)
+29 (55%) Male
+43 (40%)
+64 (60%) CD4+ (cell counts/mL) (mean ± SEM)
+597.9±27.82
+584.6±31.85
+ns HCV genotype n (%) <0.005 1
+29 (34%)
+57 (66%) 3
+29 (63%)
+17 (37%) 4
+9 (32%)
+19 (68%) Fibrosis stage n (%) <0.05 0–1
+12 (36%)
+21 (64%) 2
+3 (18%)
+14 (82%) 3
+1 (11%)
+8 (89%) 4
+2 (9%)
+21 (91%) ALT (U/L) (mean ± SEM)
+90.84±10.90
+85.54±5.039
+ns AST (U/L) (mean ± SEM)
+60.31±6.522
+62.35±3.248
+ns HCV RNA (IU/mL) (mean ± SEM)
+5.808±0.097
+6.036±0.050
+<0.05 Undetectable HIV-1 RNA, n (%)
+55 (82%)
+75 (81%)
+ns Age, Mann-Whitney U test; Gender, Chi-square test; CD4+T cell count, Mann-Whitney U test; HCV genotype Chi-square test; Fibrosis stage, Chi-square test between F0-2 and F3-4, fibrosis data was missing in 78 patients; ALT and AST, Mann-Whitney U test; HCV RNA, unpaired T test; Undetectable HIV-1, Chi-square test.10.1371/journal.pone.0013771.t002Table 2
+Association of rs8099917 SNP with response to peg-IFNα/RBV treatment. Treatment Success (SVR) n  =  67 (42%)
+Treatment Failure n  =  93 (58%) HCV genotype
+TT
+TG or GG
+TT
+TG or GG
+P value 1n = 86 (54%)
+26 (90%)
+3 (10%)
+26 (46%)
+31 (54%)
+<0.0001 3n = 46 (29%)
+23 (79%)
+6 (21%)
+13 (76%)
+4 (24%)
+ns 4n = 28 (17%)
+7 (78%)
+2 (22%)
+9 (47%)
+10 (53%)
+ns To calculate P values (Chi-square test), patients were stratified in two groups according to host polymorphism (host rs8099917 G allele carriers (TG and GG) versus noncarriers (TT). SVR, sustained virologic response; ns, not significant, to calculate.
+rs8099917 SNP and treatment response
+The clinical characteristics and HCV treatment responses of the 160 HCV/HIV-1 coinfected patients included in the study are summarized in Table 1. Most patients were on antiretroviral therapy (159, 99.5%), and most patients had controlled HIV-1 replication (130, 81%). Sixty-seven patients (42%) responded successfully to HCV treatment (i.e. achieved SVR). The proportion of patients infected with HCV genotype 3 who achieved SVR (63%) was significantly higher than in patients infected with HCV genotypes 1 or 4 (34% and 32%, respectively) (P<0.05, Chi-square test). A significantly higher HCV RNA viral load was observed in patients who failed treatment (P<0.05, unpaired t test). Likewise, severe fibrosis was significantly associated with treatment failure (P<0.05, Chi-square test) (Table 1). These three clinical parameters, HCV genotype, HCV RNA viral load, and severe fibrosis, are known to be associated with treatment response. We found no significant differences in our study cohort between those who achieved SVR and those who did not with respect to sex, age, HIV-1 viral load, liver enzymes, or CD4+ T cell count (Table 1).
+We then correlated the rs8099917 SNP genotype with the HCV peg-IFN-α/RBV treatment response. The proportions of rs8099917 TT, TG, and GG genotypes were 51.5%, 41.0%, and 7.5% among patients with treatment failure, versus 83.5%, 10.5% and 6% among those with SVR. Overall, allele G carriers had a significantly higher risk of treatment failure than patients carrying the TT genotype (P<0.0001, Chi-square test). This suggests that this rs8099917 SNP may predict treatment failure before peg-IFN-α/RBV therapy. When the data was stratified by HCV genotype, we found that of patients infected with HCV genotype 1, 91% of the rs8099917 G allele carriers had treatment failure (Fig. 1). Among patients infected with HCV genotype 1, the association between the rs8099917 G allele and treatment failure was highly significant (P<0.0001, Chi-square test) (Table 2). Similarly, of patients infected with HCV genotype 4, 83% of the rs8099917 G allele carriers failed treatment (Fig. 1 and Table 2). The sample size of patients infected with HCV genotype 4 was small (n = 28), limiting our ability to detect a significant association between the G allele and treatment failure. In contrast to patients infected with HCV genotypes 1 and 4, HCV genotype 3-infected patients that failed therapy had a similar proportion of TT and TG/GG genotypes (36% and 40%, respectively) (Fig. 1). Thus for patients infected with HCV genotype 3, there was no significant association between rs8099917 SNP genotype and treatment failure (Table 2).
+10.1371/journal.pone.0013771.g001Figure 1
+Rate of treatment failure according to rs8099917 SNP genotype in patients with hepatitis C virus (HCV) genotype 1, 3, and 4.
+P values correspond to Chi-square test. Next, factors associated with treatment failure as HCV genotype (P<0.005), fibrosis stage (P<0.05), higher pretreatment HCV RNA viral load (P<0.05) and rs8099917 SNP genotype (P<0.0001) (Table 1) were subjected to univariate and multivariate logistic regression analysis (odds ratio; 95% confidence interval; P value). In the univariate analyses, rs8099917 SNP genotype TT (4.73; 2.19–10.20; P = 0.00006), baseline HCV- RNA viral load less than 500 000 IU/ml (3.10; 1.44–6.66; P = 0.003), absence of severe liver fibrosis (stages F0–F2) (4.14; 1.06–16.04; P = 0.036) and HCV genotype 3 (3.20; 1.58–6.49; P = 0.001) were significantly associated with treatment success. When a multivariate model was built with the previous factors, the rs8099917 TT genotype remained a strong predictor of treatment success (5.83; 1.26–26.92; P = 0.021), independently of baseline plasma HCV-RNA load less than 500 000 IU/ml (4.85; 1.18–19.95; P = 0.025) and fibrosis stages F0–F2 (5.24; 1.20–22.91; P = 0.025).
+HIV-1 accelerates the course of HCV-associated liver disease. SVR after peg-IFN-α/RBV therapy in patients coinfected with HCV/HIV-1 reduces liver-related complications and mortality [22]. However, side effect rates for anti-HCV therapy in HIV-1 coinfected patients are very high, and premature treatment discontinuation due to serious adverse events ranges between 15% and 30%. Therefore, there is a need to improve treatment strategies in this specific group of coinfected patients in order to minimize side effects and treatment discontinuations and to maximize treatment success. Therapy is particularly recommended for coinfected patients with a high likelihood of achieving a SVR, i.e. patients infected with HCV genotype 2 or 3 and those infected with genotype 1 if the viral load is low (400 000–500 000 IU/mL) [23]. Insulin resistance and liver fibrosis tests are also recommended for patients with a low likelihood of achieving SVR.The findings presented here confirm that HCV genotype 1 patients carrying an rs8099917 G allele have a low probability of treatment success; therefore, rs8099917 genotyping seems to be a valid pre-treatment approach for maximizing treatment success and minimizing HCV therapy-related toxicity. Coinfected patients with HCV genotype 4 may also benefit from rs8099917 genotyping. HCV genotype 4-infected patients carrying rs8099917 G alleles had similar rates of treatment failure as HCV genotype 1-infected patients. Nevertheless, the small number of HCV genotype 4-infected patients in our study prevented us from drawing conclusions about the predictive value of rs8099917 genotyping in this group of patients. Overall, our results are in agreement with those reported by Rallon et al. and Pineda et al. [19], [20], which have demonstrated a significant influence of the rs12979860 SNP, that is in linkage disequilibrium with rs8099917 [18], on the treatment response of HIV-1 patients coinfected with HCV genotypes 1 and 4. In the 160 patients of our study cohort, the rs12979860 SNP genotype was also highly associated with treatment success (P<0.0001, Chi-square test) (4.16; 2.2–8.21; P = 0.00003) (manuscript in preparation). However, it remains to be elucidated which of these two IL28B associated SNPs are more powerful to predict treatment success.Similar to findings for HCV-monoinfected patients [18], the rate of treatment failure in patients infected with HCV genotype 3 was not affected by rs8099917 genotype, suggesting that the predictive value of genotyping this SNP is limited to patients infected with HCV genotypes that have low rates of treatment success. Genetic variation in IL28B and spontaneous clearance of HCV has also been described [18], [24]. In particular, the rs8099917 G allele increases the risk of progression to chronic HCV infection in both HCV-monoinfected and HCV/HIV-1 coinfected patients [18]. We found a significantly lower proportion of rs8099917 G alleles, 22%, in genotype 3-infected patients than would be expected given the prevalence of this allele (40% and 42%, in HCV genotype 1- and 4-infected patients, respectively). The prevalence of rs8099917 G alleles in HCV genotype 3-infected patients in our study cohort was within the ranges reported in an unrelated cohort of Swiss Caucasians (17%) [25] and in the Caucasian cohort of the Human Haplotype Map project (HapMap, www.hapmap.org) (15–19%); this suggests that the rs8099917 G allele may not affecting the rate of chronicity of HCV genotype 3. In contrast, the high prevalence of the rs8099917 G allele in HCV genotype 1- or 4-infected patients shows that the rs8099917 TT genotype may have a protective effect in terms of preventing the persistence of these two HCV genotypes. Since the rs8099917 G allele has been correlated with lower expression levels of IL28 genes [17], the different frequencies of the rs8099917 G allele in patients infected with different HCV genotypes may indicate that the innate immune system interacts differently with the different HCV genotypes. However, the viral factors involved in this interaction remain unknown. The IL28B, IL28A, and IL29 genes are closely related cytokine genes in chromosomal region 19q13 that encode proteins known as type III IFNs (IFN-λs) [26]. IFN-λ has been proposed as a possible treatment for hepatitis C [27], [28]. A phase 1b study involving 4 weeks of peg-IFN-λ plus RBV given to patients with chronic HCV infection showed that this combination had antiviral activity [27]. A comparison of the efficacy of IFN-λ against non-1 HCV genotypes may provide some clues about the interaction of this virus with the innate immune system.An important question that remains to be answered is whether the rs8099917 genotype has higher treatment predictive value in HCV/HIV-1 coinfected patients than in HCV monoinfected individuals. Previous studies with HCV genotype 1-monoinfected patients found that the proportion of rs8099917 G allele carriers associated with treatment failure ranges from 50% to 87% [16], [17], [18]. In our cohort of patients coinfected with HIV-1 and HCV genotype 1, 88% of the rs8099917 G allele carriers failed therapy with peg-IFN-α/RBV. This percentage is within the high range of previous studies and suggests that IL28B genotyping may have a higher predictive value in coinfected patients. Further studies of cohorts with different ethnic profiles and treatment regimes will be necessary to determine whether there are differences between mono- and coinfected patients in regard to the predictive value of IL28B genotyping.The recent development of compounds that directly inhibit HCV replication through interaction with viral proteins will increase the options for treating HCV infection. These compounds, which are now in phase 1, 2, and 3 trials, include reagents that target the HCV nonstructural (NS) 3 protease, the NS5A protein, and the RNA-dependent RNA-polymerase NS5B [29]. Data from phase 2 studies show that SVR rates improve significantly in patients receiving triple therapy consisting of an NS3 protease plus peg-IFN-α/RBV [30]. However, triple therapy has not been effective in all patients infected with HCV genotype 1 because of side effects, non-responsiveness to peg-IFN-α or RBV, or development of NS3 protease resistance. The rate of triple therapy treatment failure may be higher in HCV/HIV-1 coinfected patients. Most of the coinfected patients carrying IL28B risk alleles treated with this triple therapy may respond only to the NS3 protease inhibitor. Monotherapy with specific viral inhibitors poses a higher risk of selection of resistant variants and treatment failure [31]. Taken together, these results strongly suggest that more than one specific HCV inhibitor will be needed to successfully treat patients at high risk for non-response to peg-IFN-α/RBV treatment."

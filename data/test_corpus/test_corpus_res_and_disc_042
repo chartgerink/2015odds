@@ -1,0 +1,98 @@
+"The IL28B SNP, rs12979860, is Associated wtih HCV Treatment Response in a Cohort of HCV/HIV-1 Co-infected Patients
+The IL28B associated SNP, rs12979860, predicts both spontaneous and treatment outcomes to HCV infection [9], [12], [19], [20]. The IL28B-C allele is associated with HCV clearance while the IL28B-T allele is associated with a failure to do so. In order to test if the IL28B SNP, rs12979860, predicts responsiveness to HCV therapy in a HCV/HIV-1 co-infected setting, we typed a cohort of patients who had completed PEG-IFN and ribavirin treatment, for their IL28B genotype. Data on a subset of these patients has previously been published [16]. In the current cohort, sixty five patients were homozygous for the IL28B-C allele (CC, 0.436), 70 were heterozygous for IL28B-CT (CT, 0.470), and 14 patients were homozygous for IL28B-T allele (TT, 0.094). These genotypes were in Hardy-Weinberg equilibrium as expected.
+Patients were stratified according to whether they achieved SVR following treatment and clinical characteristics of the groups are shown in Table 1. Baseline HCV genotype and HAART were significantly different between patients with SVR versus those that did not achieve SVR. In terms of IL28B analysis, IL28B-CC genotype was found much more frequently among patients with SVR (0.564, n = 57) compared to patients without SVR (0.167, n = 8; see Table 2). Conversely, the presence of the IL28B-T allele (IL28B-CT or IL28B-TT) was significantly over-represented in those patients that did not respond to treatment (0.833, n = 40) compared to those that cleared the virus (0.377, n = 44, P<0.000005). Thus, similar to what we have previously reported in spontaneous clearance [12], [18] and confirming what others have previously reported in HCV treatment response in a subset of this current cohort [18] the IL28B SNP, rs12979860, impacts HCV treatment responsiveness in patients co-infected with HCV and HIV-1.
+10.1371/journal.pone.0066831.t002Table 2
+The IL28B SNP, rs12979860, is associated with HCV treatment response in a cohort of HCV/HIV-1 co-infected patients. Frequencies
+No SVR vs SVR IL28B Genotype1
+No SVR (n = 48)
+SVR (n = 101)
+χ2 (P)
+OR (trend test) CC
+0.167 (8)
+0.564 (57)
+20.396 (<0.00001)
+1 CT
+0.666 (32)
+0.377 (38) 6.11 TT
+0.167 (8)
+0.059 (6) 9.67 Patients that completed therapy were genotyped for the IL28B SNP (rs12979860) using a Taqman allele discrimination assay. Genotype frequencies were compared between patients who achieved SVR following treatment (n = 101) and those who did not achieve SVR (n = 48). Differences in frequency distribution between groups were tested for significance by a trend test.1Genotype for a subset of these patients, n = 72, has previously been described (Reference 16)
+KIR2DS3 Gene Frequency is Increased in Co-infected Patients that Fail to Achieve SVR
+As we had previously found that KIR2DS3 was a genetic locus that predicted increased risk of developing chronic HCV infection, we hypothesised that it may also impact patient responsiveness to HCV treatment. Indeed, this was the case as the frequency of the KIR2DS3 gene was significantly increased in patients that did not achieve SVR following treatment (0.438, n = 21) compared to those who did (0.218, n = 22, P<0.001; OR 2.79; 95% CI 1.25, 6.27, see Table 3). The carrier frequency of the KIR2DS3 gene in the HCV/HIV-1 co-infected patients (0.289, n = 149), was similar to that found in a healthy, normal population (0.221, n = 136) [21].
+10.1371/journal.pone.0066831.t003Table 3
+KIR2DS3 gene frequency is increased in co-infected patients that fail to achieve SVR. Frequencies
+No SVR vs SVR KIR2DS3
+No SVR(n = 48)
+SVR(n = 101)
+χ2 (P)
+OR (CI) Positive
+0.438 (21)
+0.218 (22)
+7.65 (<0.01)
+2.79 (1.75, 6.27) Negative
+0.562 (27)
+0.782 (79) KIR2DS3 was genotyped in our cohort by PCR-SSP. The carrier frequency of KIR2DS3 in 149 HCV/HIV-1 co-infected treated with peg-IFN and ribavirin was compared in 101 patients who achieved SVR following treatment and 48 patients who did not achieve SVR. Differences in frequency populations were tested for significance by χ2 test. Odds ratio with 95% confidence intervals is shown.
+The Presence of Both IL28B-T Allele and KIR2DS3 Genetic Loci Significantly Increased the Risk of HCV Treatment Failure
+Having identified two host genetic risk factors that modify treatment responsiveness in patients co-infected with HIV-1 and HCV, we examined if the presence of both risk factors influenced treatment outcomes compared to patients presenting with either one or no risk factor. When stratified, there was a significant difference between the groups (P<0.0005, OR 4.44, 95% CI 1.81, 10.96, see Table 4) indicating increased odds of treatment failure in patients having both IL28B-T and KIR2DS3. We therefore tested for potential interaction between these two risk factors. Using logistic regression to assess the independent predictive role of the two genetic loci, the presence of KIR2DS3 became non-significant (OR 3.46, 95% CI 0.759, 15.781, P = 0.109) but the presence of IL28B-T and the presence of both alleles together (i.e., KIR2DS3 carriers and IL28B-T carriers) remained significant. The presence of KIR2DS3 along with IL28-T was associated with a strikingly increased OR in co-infected patients who failed to achieve SVR (Figure 1; OR 23.903, 95% CI 6.363, 89.813, P<0.0001). As HCV genotype and HAART were signifiantly different in univariate analysis, they were included as co-variates in multivariate logistic regression analysis. While HAART lost statistical significance, HCV genotype remained an independent predictor of treatment outcome. Adjusted OR for IL28B and KIR2DS3 are shown in Figure 1. In summary the presence of both risk alleles, KIR2DS3 and IL28B-T, synergised to significantly increase the odds of failing to achieving SVR compared to the presence of either marker alone.
+10.1371/journal.pone.0066831.g001Figure 1
+The presence of both KIR2DS3 and IL28B-T alleles synergise to increase the odds of HCV treatment failure.
+ORs for KIR2DS3 alone, IL28B-T carriers (CT or TT) alone, and KIR2DS3 with IL28B-T compared with neither risk factor present were calculated from multinominal logisitic regression. The contribution of individual and combined risk factors to the ORs is graphically represented in the bar chart. Positive OR indicates an association with increased odds of treatment failure. aOdds ratio (95% confidence interval). * adjusted OR including HCV genotype and HAART as co-variates.
+10.1371/journal.pone.0066831.t004Table 4
+The presence of both IL28B-T and KIR2DS3 significantly increased the odds of HCV treatment failure. Genotype
+No SVR (n = 48)
+SVR (n = 101)
+χ2(P)
+OR (CI ) 2DS3+T+
+0.396 (19)
+0.129 (13)
+13.77 (<0.0005)
+4.44 (1.81, 10.96) Presence of noneor one risk factor
+0.604 (29)
+0.827 (88) Patients were stratified according to the carriage of both risk factors (IL28B-T allele and KIR gene 2DS3) compared to either no risk factor or just one present. The frequency of the genotypes between patients that achieved SVR (n = 101) was compared with those that failed to clear virus (n = 48) and tested for significance by χ2 test.
+IL28B-T and KIR2DS3 Identify RVR Negative Patients who Ultimately Fail to Achieve SVR
+We investigated if IL28B-T or KIR2DS3 affected RVR in our cohort and found that while KIR2DS3 did not, carriage of IL28B-T was associated with failure to achieve RVR in our patients (Table 5).
+10.1371/journal.pone.0066831.t005Table 5
+The IL28B SNP, rs12979860, is associated with RVR in a cohort of HCV/HIV-1 co-infected patients. Frequencies
+No RVR vs RVR IL28B Genotype
+No RVR (n = 88)
+RVR (n = 61)
+χ2 (P)
+OR (trend test) CC
+0.296 (28)
+0.607 (37)
+9.807 (<0.005)
+1 CT
+0.625 (50)
+0.328 (20) 3.30 TT
+0.114 (10)
+0.066 (4) 3.30 Patients were genotyped for the IL28B-associated SNP, rs12979860. Frequencies of the various genotypes were compared between patients that achieved an RVR (n = 61) and those that did not achieve RVR (n = 88) after 4 weeks of treatment. A χ2 trend test was used to compare the data.
+Most patients who achieved RVR and completed a full course of HCV therapy achieved SVR (93%; 57/61 such patients in this current cohort). In our cohort, 50% of patients that did not achieve RVR finally achieved SVR while 50% failed to do so. We considered whether IL28B-T or KIR2DS3 was associated with responsiveness to treatment in these HCV/HIV-1 co-infected patients without RVR. RVR negative patients (n = 88) were stratified into four possible “risk genotypes”, according to the presence and/or absence of IL28B-T and KIR2DS3 (see Table 6). Among 20 patients with no host genetic risk factors (i.e. IL28B-CC and KIR2DS3 negative) 18 (90%) cleared virus despite not achieving an RVR. The presence of a single risk factor (either IL28B-T or KIR2DS3) could not sufficiently identify patients likely to achieve SVR in the RVR negative patient group. However, the presence of two host genetic risk factors was strongly associated with treatment failure as only 24% of this group achieved SVR. Thus, host genetic risk factors can increase the potential to identify RVR negative patients that are highly unlikely to respond to therapy.
+10.1371/journal.pone.0066831.t006Table 6
+Presence of host genetic risk factors identifies RVR negative patients that will fail to achieve SVR on completion of therapy. Genotype IL28B/2DS3
+IL28B-CC/2DS3+
+IL28B-CC/2DS3-
+IL28B-T/2DS3+
+IL28B-T/2DS3- Risk factors
+1
+0
+2
+1 Treatment outcome
+SVR
+NoSVR
+SVR
+NoSVR
+SVR
+NoSVR
+SVR
+NoSVR Counts (n = 88)
+4
+4
+18
+2
+5
+16
+17
+22 Treatment
+Continue
+Continue
+Stop
+Continue Patients that failed to achieve RVR after 4 weeks of treatment were analysed. Four different host genetic genotypes were identified based on the presence of 2 risk factors (IL28B-T allele, and presence of the NK cell gene KIR2DS3). Patients were stratified according to whether they ultimately achieved SVR or not within each genotype group and the counts obtained are shown. Based on these data, a suggested treatment strategy is shown with respect to supporting patients through treatment or terminating treatment early.We have recently identified an IL28B SNP (rs12979860) and a second immune gene, KIR2DS3, that function as host risk factors predicting failure to spontaneously clear HCV virus by immune mediated mechanisms [12]. In the present study, we investigated if these two host genetic risk factors could also impact patient response to HCV treatment in patients that are co-infected with HIV-1. The IL28B-associated SNP was associated with increased odds of treatment failure in our patients. This supports previously reported data for this SNP in which IL28B-CC was a strong predictor of SVR in HIV-1/HCV co-infected patients [16], [22], [23]. The relative contribution of IL28B major and minor alleles to treatment outcome is not yet clear, although a dominant effect of the IL28B-T allele has been reported for spontaneous and treatment induced viral clearance [9], [12]. Our data suggest that carriage of the IL28B-C allele in co-infected patients conferred a benefit while carriage of IL28B-T allele conferred a risk to the host in terms of treatment response. Understanding the molecular mechanisms involved to explain these findings is a significant challenge as the biological effects of IL28B associated SNPs have not yet been elucidated [24].We also found that KIR2DS3, an NK cell associated gene, increased the odds of failing to achieve SVR in response to treatment in HCV/HIV-1 infected individuals. There is currently no known function for KIR2DS3 [16] and evidence suggests that it is not expressed at the cell surface [25]. It is likely that KIR2DS3 serves as a genetic marker for a closely related tightly linked KIR gene that mediates the biological effect. Although a mechanism is unclear, presence of KIR2DS3 predicted increased odds of treatment failure in our patient cohort. However, when stratified for independence KIR2DS3 does not appear to be have a role independent of IL28B-T but rather increases its negative effect on treatment outcome. We found the presence of both risk loci, KIR2DS3 and IL28B-T, significantly increases the odds of failing to achieve SVR when compared to the presence of either marker alone and this improves identification of patients with a high likelihood of SVR prior to commencing antiviral therapy. Combining these newly identified host genetic factors with other recognised predictors of SVR (age, baseline HCV-RNA levels, HCV genotype, liver fibrosis stage, pre-treatment IP10 levels) will aid patient management by improving prediction potential of SVR prior to embarking on PEG-IFN and ribavirin treatment. Furthermore, we have confirmed a genetic synergy between IL28B and KIR2DS3 in HCV viral clearance, originally observed in spontaneous clearance and now defined in the treatment induced setting. Although a mechanism for the synergy is not yet known, it is clear that for patients with genotype 1/4 HCV and with both host genetic risk factors, an early and sustained impaired ability to clear virus in response to treatment is evident (see Figure S1). There was no observable impact of host immune genotype on viral kinetics for patients with non-genotype 1/4 HCV that may reflect their well documented rapid response to treatment. These data support the growing body of evidence that the innate immune system plays an important role in HCV clearance.Achievement of RVR is highly predictive of SVR upon completion of a full duration of PEG-IFN and ribavirin. However, failure to achieve RVR in isolation does not sufficiently discriminate responders from non-responders (50% of RVR negative group achieved SVR in this study) and therefore treatment is continued in all individuals. Identification of factors that predict SVR in these RVR negative patients would significantly improve clinical management of this patient subgroup, and the data presented here provide an important contribution towards this goal. Combining IL28B and KIR2DS3 genotypes increased the likelihood of failing to achieve SVR in the RVR negative cohort of patients. This effect appeared to be independent of HCV genotype although sample numbers were small upon stratification (data not shown). In the RVR negative patients the negative predictive value (indicating correct prediction of treatment failure) of using both risk genetic loci increases to 95.45% (with sensitivity of 90% and specificity of 61,76%) compared to 86.36% (with sensitivity of 78.57% and specificity of 64.41%) for the presence of IL28B-T alone. These data suggest that patients that have achieved a RVR, or have one or no genetic risk factors should continue standard treatment. However, co-infected patients with unfavourable pre-treatment characteristics (i.e. HCV genotype 1/4 and/or presence of at least two host genetic risk factors, see Table 6) who fail to achieve RVR are highly unlikely to achieve SVR. For these patients, where primary outcome of treatment is to obtain SVR and not just secondary gain of histological stability, therapy could be stopped. Individualising care pathways would limit toxicity in those unlikely to respond and lower costs associated with ineffective treatment. These patients could then be prioritised for access to newer non-IFN based direct acting antiviral agents as they become approved in co-infected patients. While the data need to be validated in additional cohorts, the results strongly suggest that host genetic analysis needs to become a routine consideration during management of care pathways in HCV/HIV-1 co-infection."

@@ -1,0 +1,257 @@
+"Functional IFN-λ4 is strongly conserved in mammals
+The IFNL4 gene is present in most mammals analyzed, although it is absent in mouse and rat (Methods). To understand the evolutionary conservation of IFNL4 we performed a comparative analysis of the IFNL4 coding sequences from a representative set of mammals (N = 12). The overall dN/dS (non-synonymous to synonymous substitution ratio) is 0.23 across mammals and 0.22 across primates (Figure 1), indicative of purifying selection maintaining the sequence and function of the protein. Notably, all individual branches except squirrel monkey have dN/dS<1 and no model of protein evolution supported dN/dS>1 in specific branches or sites (Table S1). This reveals strong evolutionary conservation of IFN-λ4 in mammals, reflecting its functional relevance.
+10.1371/journal.pgen.1004681.g001Figure 1
+Phylogenetic tree showing the dN/dS ratio of each lineage analyzed. Strong population differentiation for the TT allele
+The selective constraint on IFN-λ4 contrasts with the pseudogenization of the gene in humans through the derived TT allele [17]. The multiple-species alignment shows that ΔG is the conserved, ancestral allele and TT is the derived human-specific allele. The mutational process from ΔG to TT in humans is unclear, but only these two forms have been observed, so they should be considered as two alleles of a di-nucleotide variant (Methods). The TT allele shows considerable frequency variation across human groups. The 1000 Genomes data [24] reveals a gradient in frequency that rises from Africa (0.29–0.44) to Europe (0.58–0.77) and the New World (0.51–0.65), and reaches near fixation in East Asia (0.94–0.97) (Figure 2, Table S2, full population names in Methods).
+10.1371/journal.pgen.1004681.g002Figure 2
+Allele frequency of rs368234815 - ΔG allele (blue) and TT allele (green) for each population from the 1000 Genomes dataset.
+American populations of European and African origin (CEU, ASW) are placed near the geographic area of origin. For full population names see Methods. Population differentiation can be quantified with the fixation index FST [25], a measure of the pairwise level of differentiation in allele frequencies. We used Yoruba (YRI) as the background population because it has the lowest frequency of the derived TT allele in Africa. To put these values in the context of genome-wide population differences, FST was also calculated for every SNP in the 1000 Genomes dataset. For the TT allele the largest FST, 0.63, corresponds to Southern Han Chinese (CHS) versus YRI, which places the TT allele in the 0.5% tail of the empirical genomic distribution of CHS-YRI FST (Fig. 3A, Table 1). FST is also in the 0.8% tail of the genomic distribution for the other East Asian populations (CHB, JPT, Fig. 3B and C, Table 1), and in the 4% tail for Europeans (CEU) and one African population, Luhya (LWK) (Table 1, Fig. S1). These results remain significant when other populations were used as background and in continental comparisons, and when the genome-wide distribution was restricted to SNPs with the lowest frequency in Yoruba (Table S3). Therefore, rs368234815 is among the 0.8% most differentiated SNPs between African and East Asians, and among the 12% most differentiated SNPs between African and European populations.
+10.1371/journal.pgen.1004681.g003Figure 3
+Empirical P-values of the FST and XP-EHH analysis (depicted as dots or diamonds, respectively) in the 30 Kb genomic locus around IFNL4 (chr19:39724153–39754153) for (A) CHS, (B) CHB, and (C) JPT using YRI as background.
+All XP-EHH values are connected by a fitting curve (yellow line). The 1% tail of the genomic empirical distribution is indicated by the horizontal, dashed line. (d) Haplotype structure in the same region as above, for an African (YRI), European (CEU), and East Asian (CHS) population. Columns represent SNPs with a derived allele frequency >5% in at least one population (n = 99 SNPs), with the ancestral allele in white, and the derived allele in black. Lines represent the haplotypes they fall in, as inferred with SHAPEIT by the 1000 Genomes consortium [24]. Haplotypes were sorted based on rs368234815 (red arrow) and SNPs in perfect LD with it in CHS (black arrows); see also Table 2 and Figure 4. The bar on the left-hand side of each plot indicates the haplotypes that carry the TT allele (red) or the ΔG allele (blue).
+10.1371/journal.pgen.1004681.t001Table 1
+FST values and for FST, XP-EHH, iHS and Fay and Wu's H (FW) the empirical P-values are shown for rs368234815 in every population. Population
+FST
+FST P-value
+XP-EHH P-value
+iHS P-value
+FW P-value CHS
+0.63
+0.005
+0.003
+-b
+0.01 CHB
+0.60
+0.006
+0.005
+0.22
+0.01 JPT
+0.56
+0.008
+0.003
+0.05
+0.01 GBR
+0.22
+0.074
+0.071
+0.03
+0.07 CEU
+0.31
+0.040
+0.041
+0.02
+0.04 FIN
+0.26
+0.059
+0.059
+0.09
+0.06 TSI
+0.15
+0.120
+0.070
+0.05
+0.10 CLM
+0.09
+0.172
+0.201
+0.06
+0.09 MXL
+0.04
+0.368
+0.145
+0.50
+0.11 PUR
+0.19
+0.064
+0.029
+0.10
+0.06 ASW
+−0.01
+0.684
+0.634
+0.08
+0.20 LWK
+0.05
+0.036
+0.043
+0.03
+0.12 YRI
+-a
+-a
+-a
+0.14
+0.21 aFST and XP-EHH were not calculated for YRI, which is the background population.biHS requires a MAF of 5%, which is not given for CHS.
+The TT allele resides in a population-specific extended haplotype
+The unusually high population differentiation of the TT allele is compatible with a scenario of recent population-specific natural selection. Under certain selection models such high differentiation should be accompanied by extended haplotype homozygosity in the populations experiencing selection, but not in other populations. We evaluated such a signature with the cross population extended haplotype homozygosity test [26] (XP-EHH), which was calculated across the genome relative to the Yoruba population. The XP-EHH value for the TT allele is in the 0.5% tail of the empirical distribution for East Asian populations (p = 0.003, 0.005, and 0.003, for CHS, CHB, and JPT, Fig. 3A–C, Table 1), and the signal remains significant when calculated relative to a European population (GBR) and in analyses at the continental level (Table S4). In addition, some non-Asian populations show marginally significant signatures of positive selection too (CEU, PUR, LWK, Table 1, Fig. S1). Similar results were obtained with iHS, a statistic that explores haplotype homozygosity within a single population [27] (Table 1) (although iHS lacks power when population frequency is very high, like in Asia). The unusual allele-specific haplotype homozygosity is evident in Figure 3D, which shows the haplotype structure of the locus in one African, one European, and one East Asian population (for all populations see Fig. S3). We note that FST shows very weak correlation with both XP-EHH and iHS in the genome (r = 0.12 and r = −0.08 Spearman rank test, respectively, although the large number of data points makes these weak correlations significant, P-value<2.2e-16). Therefore, the FST and XP-EHH/iHS observations can be considered largely independent.
+Finally, not only rs368234815 itself but also its genetic locus shows signatures of recent positive selection, with significant Fay and Wu's H test [28] (FW), which detects an excess of high-frequency derived alleles in the region (Table 1). Together, the combined signatures of FST, XP-EHH, iHS and FW provide strong evidence for the action of natural selection rapidly increasing the frequency of the TT allele in East Asia. The signature outside Asia is less clear, with most populations showing significant signatures of selection for a subset of the tests performed. Cumulative evidence that TT allele drives the signatures of selection
+A classical problem in population genetics is the identification of the genetic variant responsible for a selection signal. High linkage disequilibrium (LD) in the region surrounding IFNL4 (Table 2, Fig. 3D, Fig. 4, Fig. S7) hampers the distinction of signatures across all the linked variants, making it difficult to identify the causal variant. We conclude that rs368234815 is the most likely variant driving the signatures of selection, based on three lines of evidence: (1) its functionality and phenotypic consequences, (2) its genetic association with viral clearance, which reflects its effect on fitness, and (3) its signatures of selection.
+10.1371/journal.pgen.1004681.g004Figure 4
+Map of the IFNL locus with locations of relevant SNPs (from Table 2) and the inferred recombination hotspot based on recombination rates from [60].
+10.1371/journal.pgen.1004681.t002Table 2
+Derived allele frequency (DAF), LD to rs368234815, and signatures of selection (empirical P-values for FST and XP-EHH) for other relevant SNPs across the IFNL-locus. rs ID
+DAF (50 ind.)
+r2 to rs368234815
+XP-EHH P-valuea
+FST P-valuea
+Signal
+Ref. CEU
+CHS
+CEU
+CHS
+CEU
+CHS
+CEU
+CHS rs368234815
+0.75
+0.97
+-
+-
+0.04
+0
+0.04
+0.01
+G/F
+[17] rs4803217
+0.73
+0.97
+0.71
+1
+0.12
+0.01
+0.08
+0.01
+F
+[72] rs11881222
+0.75
+0.97
+0.8
+1
+0.14
+0.01
+0.96
+0.15
+S
+[21] rs8103142
+0.76
+0.99
+0.85
+0.33
+0.05
+0
+0.06
+0.01
+S
+[21] rs28416813
+0.7
+0.96
+0.78
+0.74
+0.06
+0
+0.09
+0.01
+S
+[21] rs12979860
+0.74
+0.97
+0.85
+1
+0.04
+0
+0.06
+0.01
+S/G
+[6], [21] rs8109886
+0.58
+0.97
+0.46
+1
+0.21
+0
+0.04
+0
+S* rs8099917
+0.16
+0.03
+0.4
+1
+0.2
+NA
+0.13
+0.48
+G
+[30] rs8103362
+0.73
+0.97
+0.01
+0
+0.71
+0.24
+0.68
+0.06
+S
+[21] rs59746524
+0.87
+0.94
+0.01
+0.04
+0.77
+0.28
+0.54
+0.24
+S
+[12] rs30461
+0.83
+0.97
+0
+0
+0.58
+0.39
+0
+0
+S
+[21] Included are variants which showed either a significant association with HCV clearance (G), functional effects (F), signatures of selection in a previous scan of this region, or novel strong signatures of natural selection (S). Location of each SNP in the IFNL locus is visualized in Figure 4.aCalculated using YRI as background population.*Selection signal detected in this study.
+First, the TT allele has a clear phenotypic consequence as it leads to abrogation of IFN-λ4. This is in contrast with other variants in the locus for which no conclusive functional data has been reported despite numerous efforts [9]–[14]. Second, of all variants in the IFNL region, rs368234815 shows the strongest genetic association with spontaneous and treatment-induced HCV clearance in African Americans [17], [19]; in Europeans and Asians the strong LD across the region results in comparable associations for many variants [15]–[17], [20], [29] (Table 2, Fig. S2, Fig. S7). Third, of all protein-coding or HCV-associated variants in this locus, rs368234815 shows the strongest combined signatures of positive selection in East Asians (Fig. 3A–C, Fig. S1 and S2, Table 2). Only one other polymorphism (intergenic rs8109886, located upstream of IFNL4, Fig. 4), shows signals of selection comparable to rs368234815 (Fig. S2, Table 2). No function has been ascribed to this variant despite a moderate HCV association that is likely due to linkage to TT [6], [17], [30] (Table 2 and Fig. 4), making it a priori a less likely candidate for selection. Indeed, simulations of the evolutionary process showed that the large frequency change of rs8109886 can be explained by linkage to the TT allele alone (Note S1).
+We also put rs368234815 in the context of the signatures of selection in the larger genomic region. IFNL4 is located upstream of IFNL3 in a region of moderate LD that is separated from the IFNL1/IFNL2 locus by a recombination hotspot (Fig. S7, Table 2). Manry et al. [21] identified signatures of recent positive selection in all three original IFNL genes (IFNL1-3) but neither IFNL4 nor the rs368234815 variant were known at that time and thus they were not considered. The recombination hotspot breaks LD between the IFNL1/INFL2 locus and the IFNL3/IFNL4 locus (Fig. S7, Table 2), showing that these signatures are in all likelihood independent, as suggested by Manry et al. [21]. There is moderate LD between IFNL4 and IFNL3, with an average r2 between rs368234815 and IFNL3 SNPs of 0.18 in CEU and of 0.44 in CHS (see also Fig. S7). So, the selection signatures in IFNL3 and IFNL4 may not be independent. In fact, the seven SNPs identified by Manry et al. [21] (detailed in Table 2 and Fig. 4) have (1) weaker signatures of selection; (2) unclear functional effects, and (3) weaker association with HCV clearance than the TT allele in Africa (Table 2, Figure 4). Also, those that show some signatures of selection have high to moderate LD with rs368234815 (Table 2), with LD broken mostly by a few recombination events in the ancestral haplotype (Note S1). Taken together, these lines of evidence confirm that IFNL1/2 and IFNL3/IFNL4 have likely been independently targeted by positive selection in recent human history, as suggested by Manry et al. [21], and highlight rs368234815 TT as the most likely selected allele in its region. Mode and tempo of positive selection on the TT allele
+The classical model of positive selection involves selection on a de novo mutation (SDN), a so-called hard sweep, where a new mutation immediately becomes beneficial and selected (reviewed in [31]). This scenario is difficult to reconcile with our observations, because unequivocal signatures of selection are observed only in East Asians but the TT allele is common worldwide. The TT-carrying haplotype harbors the highest genetic diversity in Africa indicating that it arose there before the out-of-Africa dispersion (Note S2, Table S5), a result that is consistent with the IFNL4 haplotype network (Fig. S4). Under SDN, only a model where selection begins weak in Africa and becomes stronger outside of Africa could explain our observations (Fig. 5A). An alternative model is selection from standing variation (SSV), also known as a soft sweep (reviewed in [31]). In this scenario an existing neutral or nearly neutral allele becomes advantageous, for example upon environmental change (Fig. 5A).
+10.1371/journal.pgen.1004681.g005Figure 5
+(A) Graphical representation of the different models of selection tested in the ABC analysis (NTR - neutral, SDN - selection on a de novo mutation, and SSV - selection on standing variation).
+We simulated one ancestral population that splits at the out-of-Africa event (at 51,000 years ago) into the African (AFR) and the non-African (non-AFR) populations, which experience subsequent migration. The star indicates the appearance of the focal mutation. In the first case the neutral (black) mutation appeared and evolved under neutrality in both populations. In the SDN model the advantageous mutation (red) is immediately under positive selection with strength sA, and time when selection started tmut (the prior parameter space for tmut is indicated by a green line); selection strength is allowed to change in the non-African population to sNA. In the SSV model the neutral (black) mutation appeared and evolved under neutrality, becoming advantageous in the non-African population (red line) at time tmut. Prior parameter spaces can be found in methods. (B) Posterior probabilities of the model choice for the different selection models under perfect additivity. (C) Posterior probabilities of the model choice for the different dominance models (and neutrality, NTR). For all models except NTR the posterior probability represent the sum for the SDN and SSV selection models. (D) Posterior probabilities of the model choice for the different selection models under the supra-additive model. In (B), (C), and (D), NTR has negligible posterior probability and is therefore not visible. To disentangle the most likely model of selection for the TT allele we applied a modified version of a recently published ABC approach [23], which we extended to be able to analyze two-population models. In brief, we match millions of simulations under the different models to a summary of the observed genetic data in the IFNL4 region, and use the best matching simulations for further inferences. Under reasonable assumptions we expect the most realistic selection model to produce the closest simulations to real data, and thus simulations can be used to make inferences about the selective history of the allele [23] including the model of selection and relevant parameters (Note S3). While the method relies on some assumptions (e.g. correct demographic and dominance models) this approach has been shown to be robust and to have high power to recover the correct selection scenario [23]. We assess that we overall have high power to recover the correct model, with 76% of the SSV and 95% of the SDN simulations being assigned correctly under the East Asian demographic model, and 70% of the SSV and 97% of the SDN simulations being assigned correctly under the European demographic model (Note S3). The slight bias observed was considered when interpreting the results. For our analysis we consider three models: neutrality (no selection), selection from a de novo mutation (SDN) and selection from standing variation (SSV) (Fig. 5A).
+In East Asian populations we obtain negligible support for neutrality and very strong support for the SDN model (Fig. 5B, Table 3, Table S6). Results in Europeans are also consistent with the SDN model, although the weaker signals of selection and the slight bias observed above make these results less conclusive (Table 3, Note S3, Fig. S5, Table S6). The posterior probability for the SDN model is ∼95% in East Asia and ∼80% in Europe, corresponding to Bayes factors (Bayesian measures of relative model support [32]) of ∼10 and ∼4, respectively. This provides substantial and robust evidence for the SDN model, compared to the SSV and NTR models for East Asian and European populations according to Jeffrey's interpretation [33]. Therefore, we conclude that the TT allele was likely positively selected upon appearance. The ABC-based parameter estimates are less reliable than the model choice [23] because they always have large credible intervals (Bayesian measures of confidence). However, the posterior distributions have modes that differ from the modes of the prior distributions, indicating that they are determined by information from the data and not by the prior (Fig. S5). Also, the estimates are quite concordant within and between continental groups (Fig. S5, Table 3). So while they should be interpreted with appropriate caution, the estimates do provide additional useful information about the model and timing of selection. We infer that the TT allele emerged before the out-of-Africa migration (estimated tmut≈55,900 years ago (41,360–68,640)) and was immediately, or shortly thereafter, targeted by moderate positive selection (selection coefficient, sA, ≈0.58% (0.17–1.23)); we estimate that selection intensified substantially outside of Africa, with the selection strength nearly quadrupling in Europe and in Asia (sNA≈2.6% (0.6–4.8); Table 3, Fig. S5).
+10.1371/journal.pgen.1004681.t003Table 3
+ABC results and inferred parameter estimates for the SDN model. Pop
+P (in %)
+tmut (in kya)
+SA (in %)
+SNA (in %) CHS
+97.5
+54.9 (41.1–68.6)
+0.55 (0.16–1.22)
+2.36 (0.57–4.75) CHB
+95.1
+56.0 (41.4–68.6)
+0.59 (0.17–1.21)
+2.56 (0.57–4.84) JPT
+91.3
+56.9 (41.7–68.6)
+0.60 (0.19–1.26)
+2.87 (0.59–4.84) CEU
+85.2
+58.3 (41.8–69.1)
+0.76 (0.14–1.37)
+2.86 (0.59–4.80) GBR
+84.8
+59.3 (43.8–69.1)
+0.72 (0.21–1.38)
+2.48 (0.59–4.73) TSI
+81.8
+59.2 (43.3–69.1)
+0.72 (0.20–1.38)
+2.48 (0.59–4.73) FIN
+74.0
+59.3 (43.5–69.1)
+0.70 (0.20–1.37)
+2.40 (0.59–4.68) P: posterior probability, tmut: time when selection started (based on a generation time of 25 yr), SA: selection coefficient in Africa (YRI), SNA: selection coefficient in the non-African population. The 95% confidence interval (CI) is shown in brackets. Posterior distributions shown in Figure S5 and S6.
+One important aspect of the simulations is the mode of dominance (also known as the genetic model), and the ABC analysis above was performed on simulations under a perfectly additive model where heterozygotes have half the fitness effect of homozygotes (dominance coefficient h = 0.5). This model is reasonable because in TT/ΔG heterozygotes only one IFNL4 copy is truncated, and because genetic studies show that the odds ratios (ORs) for HCV clearance in heterozygotes are intermediate to those in the two homozygotes [17]. These two arguments argue strongly against a model of complete dominance for TT as realistic, but other models are more difficult to discard a priory. We thus compare three dominance models: (1) a fully recessive model for the TT allele (h = 0), (2) the perfectly additive model used above (h = 0.5), and (3) a supra-additive model where the additive effect is non-linear and heterozygotes are closest in fitness to ΔG homozygotes. This model has been proposed based on the ORs for the intronic IFNL4 variant, rs12979860 which is in high LD with rs368234815 and is thus a good proxy for the dominance effects of TT (Table 2) [34]. Based on those results we use a dominance coefficient h = 0.38 (see Note S4). When we compare the three dominance models in East Asia, regardless of the selection model, the fully recessive model has marginal support (4%), with the two additive models showing similar posterior probabilities (slightly higher for additive: 56%, than supra-additive: 44%, Fig. 5C and Note S4). When we compare the ABC results in the two additive models, they both strongly support the SDN model over the SSV model (95% in the additive model and 90% in the supra-additive model, corresponding to a Bayes factor of ∼12), and both models provide virtually no support for the neutral model (Figure 5B–D and Note S4). Parameter estimates also agree well among these two models (Fig. S5, Fig. S6 and Note S4). Therefore our results in East Asia validate the use of an additive model and show that the ABC inferences are not sensitive to the particularities of the additive model used. In European population the results are less clear, just as in the original ABC analysis and as expected given the weaker signatures of selection. Still, these results also support the two additive models (36% support for additive and 38% for supra-additive; Fig. 5C) as well as the SDN model (∼81% support for SDN in both the additive and the supra-additive, corresponding to a Bayes factor ∼4, Fig. 5B and D, Note S4).
+These results show a complex selection history for the TT allele, with selection starting upon appearance of the allele but with intensity changing over time and geographic range. The model is consistent with all our observations, including the marginal evidence for selection observed in non-Asian populations (Table 1). It is interesting that we infer selection on the TT allele even in Yoruba, where the signature is undetectable with classical methods likely because of weak selection and lower frequency although the TT allele shows clear signatures of homozygosity (Fig. 3D). Interestingly, and in agreement with this model, we do observe some signatures of positive selection in another African population, the Luhya. It remains possible that the advantage of the TT allele was counteracted by additional selective forces in Africa that maintained the TT allele at an intermediate frequency, such as balancing selection, although we note that the locus lacks classical signatures of long-standing balancing selection (Note S5, Table S7).
+Here we show that functional IFN-λ4 is under purifying selection throughout the mammal clade while positive selection has favored the elimination of IFN-λ4 through pseudogenization in humans. Selection on the TT allele has been particularly strong in specific populations, leading to extremely high frequency of the pseudogene and subsequent virtual loss of IFN-λ4. This event is phenotypically relevant: not only is IFN-λ4 biologically important [17], [18] and evolutionary conserved, but the loss of IFN-λ4 through pseudogenization shows remarkable association with improved HCV clearance [17], [19], [20].The precise reason behind the advantage of IFN-λ4 elimination is unknown, but its immunological role and clear antiviral activity against HCV [17] make exposure to pathogens (and in particular viral agents) the most likely selective force. However, due to its slow progression into fatal disease [35] HCV is unlikely to have exerted such strong selective pressure, although we cannot completely discard this possibility. Besides HCV, it has been shown that functional IFN-λ4 has antiviral activity against coronaviruses [18], while the IFN-λ4 pseudogene increases susceptibility to cytomegalovirus retinitis among HIV-infected patients [36]. Suggesting that IFN-λ4 pseudogenization is likely associated with several phenotypic traits. It is perhaps surprising that suppression of an antiviral protein results in improved viral clearance, although it has for example been shown that during chronic infection blockage of persistent signaling of IFN I (a different type of interferon) can improve viral clearance [37], [38].We showed that a complex selective regime, with variation in selection strength in different geographical areas, best explains the history of the IFNL4 locus. Signatures of non-neutral evolution have been detected in other interferons, including at least one other IFNL family member (IFNL1 or IFNL2) [21]. Although the mode and tempo of selection in these other IFNL genes are not well understood, together these observations suggest that IFN-λ proteins have played an important role in recent human adaptation, probably as a consequence of their role in individuals' constant fight with pathogens. It is likely, though, that only the selective history of the IFNL4-TT allele had a strong influence in the rate of clearance of some viruses, at least HCV, across human groups.It has been proposed that gene loss may exert an important role in evolution, including human evolution [39], and the loss of otherwise conserved regulatory elements may play a role in the acquisition of human-specific phenotypes [40]. Loss-of-function mutations show global signatures of purifying selection [41]–[43] and tend to carry detrimental effects [44]. A few exceptions exist, though, where truncating polymorphisms show signatures of positive or balancing selection [45]–[50]. Still, as with other targets of selection, most of these cases lack biological interpretation. In fact, IFNL4 joins a small group of known genes where a striking signature of local adaptation is coupled with a clear molecular phenotype (e.g. [46], [47], [51]), which in this case is also associated with disease risk. As such, it contributes to our understanding of how recent human evolution has shaped genetic and phenotypic human diversity, including present-day heterogeneity in susceptibility to disease."

@@ -1,0 +1,109 @@
+"Patient Groups and Treatment Adherence
+The training group consisted of 53 patients with a 47% SVR rate, and the validation group included 21 patients with a 57% SVR rate, adding up to a total of 74 patients. Both patient groups were comparable in terms of descriptive clinical-epidemiological characteristics (Table 1). All patients were on treatment for the complete expected time and adherence to both drugs was overall >80%.
+10.1371/journal.pone.0072600.t001Table 1
+Descriptive baseline clinical features of study patients. Variable
+Training group(N = 53)
+Validation group (N = 21) Age (years)
+48.53±11.25
+48.52±9.98 Weight (Kg)
+75.05±13.73
+77.24±11.94 BMI (Kg/m2)
+26.26 (18.7–41.0)
+27.40 (20.8–37.0) Gender (% male)
+29±54.7
+11±52.4 ALT quotient (×ULN)
+1.68±4.76
+1.24±6.34 AST quotient (×ULN)
+1.55±3.14
+1.30±4.86 GGT quotient (×ULN)
+0.81±0.59
+0.60±0.63 Patelet count (×104/µl)
+164.80±29.36
+156.86±27.94 Forns index
+5.89±1.69
+4.58±2.91 SVR (%)
+47.2
+57.1 Viral load (Log10IU/mL)
+5.96±0.70
+6.22±0.65 BMI, body mass index; ALT, alanine transaminase; AST, aspartate transaminase; GGT, gamma-glutamyl transferase; ×ULN, factor times upper limit of normal used in our center for males and females: 41 and 31 U/L for ALT, 37 and 31 for AST, and 85 and 50 for GGT, respectively. Data is presented as mean ± SD for variables following a Normal distribution and as median (range) for the rest.
+In order to develop predictive multivariate models, firstly, the association between each baseline variable and treatment outcome was studied in the training group of patients. Baseline Clinical variables Associated with Treatment Outcome
+Baseline clinical characteristics of patients associated with treatment outcome in the training group are shown in Table 2. The IL28B polymorphism was the variable most strongly associated with treatment outcome (p = 1.53×10−4) with only 1/13 patients with the favourable C/C genotype not responding to therapy. The AST/ALT ratio (p = 0.022) and the GGT quotient (p = 0.055) were higher in non-responders, while the ALT quotient was higher in responders (p = 0.028). Non-responder patients tended to have a higher Forns fibrosis index score. Both groups of patients were comparable for the rest of variables. Regarding the IP-10 levels, although two patients had insufficient serum volume left to perform the assay, non-responders tended to have high levels of this chemokine more frequently than responders (7/20, 38.1% vs. 8/21, 35.0%), but this difference did not reach statistical significance (Figure S1).
+10.1371/journal.pone.0072600.t002Table 2
+Baseline variables used for model development in the training group (p-value <0.15). Responders (N = 25)
+Non-responders (N = 28)
+p-value Host factors IL28B rs12979860 genotype C/C, N (%)
+12 (50.0%)*
+1 (3.7%)*
+<0.001 Ratio AST/ALT, median (range)
+0.68 (0.35–1.03)
+0.78 (0.47–1.67)
+0.022 ALT quotient, median (range)
+2.19 (1.03–4.15)
+1.60 (0.15–4.90)
+0.028 GGT quotient, median (range)
+0.58 (0.22–1.80)
+0.98 (0.18–2.50)
+0.055 Forns index, mean ± SD
+5.52±1.57
+6.23±1.75
+0.126 Viral factors nHap_E1E2, median (range)
+17.00 (5–25)
+21.00 (11–27)
+<0.001 Absence of core 70R and 91L, N (%)
+6 (24.0%)
+16 (57.1%)
+0.015 nHap_HVR1, median (range)
+11.00 (2–17)
+12.50 (1–20)
+0.027 ISDR, N (%) 0.034 Wild-type
+7 (28.0%)
+7 (25.0%) Intermediate (1–3 mutations)
+14 (56.0%)
+21 (75.0%) Mutant (>4 mutations)
+4 (16.0%)
+0 (0%) Viral load (Log10IU/mL), mean ± SD
+5.78±0.80
+6.12±0.57
+0.077 Ks_HVR1, mean ± SD
+0.0744±0.0645
+0.1077±0.0779
+0.098 nHap_E1E2, number of haplotypes in the whole E1–E2 studied region; nHap_HVR1, number of haplotypes in the hypervariable region 1; ISDR, interferon-sensitivity determining region; SD, standard deviation; Ks, number of substitutions per synonymous site; ALT, alanine transaminase; AST, aspartate transaminase; GGT, gamma-glutamyl transferase; ×ULN, factor times upper limit of normal used in our center for males and females: 41 and 31 U/L for ALT, 37 and 31 for AST, and 85 and 50 for GGT, respectively.*One missing value in each group.
+Baseline viral Variables Associated with Treatment Outcome
+All patients were confirmed to be infected with HCV-1b by phylogenetic analysis of the core region (Figure S2). Amino acid composition analysis of this genetic region also showed that the absence of amino acid arginine (R) at position 70 and leucine (L) at position 91 was more frequent in non-responders (p = 0.015). Regarding the E1–E2 genetic variability estimates, while non-responders tended to have higher values than responders for most of the parameters, those most strongly related to treatment outcome were the nHap in the whole E1–E2 studied region (p = 4.23×10−4) and in the HVR-1 subregion (p = 0.027). The phylogenetic analysis of E1–E2 sequences confirmed the absence of contamination events (Figure S3). Regarding the ISDR region, all patients showing four or more mutations belonged to the responder group (p = 0.034). Finally, the viral load tended to be higher in non-responders (Table 2). Statistical Models for the Prediction of Treatment Outcome using Baseline Host and viral Variables Discriminant analysis
+The variables that persisted in the multivariate discriminant predictive model in decreasing order of significance were: nHap_E1–E2 (F ratio = 14.441), the core amino acid substitution pattern (F ratio = 12.219), the IL28B polymorphism (F ratio = 5.189), GGT ratio (F ratio = 4.623ALT ratio (F ratio = 1.696and viral load (F ratio = 0.774)This model was able to accurately predict the achievement of a sustained virological response in the training group (AUROC = 0.9444; 96.3% specificity, 94.7% PPV, 75% sensitivity and 81% NPV) when a 0.86 cut-off was used to maximize the PPV (Table 3). These values remained high when the model was applied to the validation group (AUROC = 0.8148, 88.9% specificity, 90.0% PPV, 75.0% sensitivity and 72.7% NPV). On the other hand, a 0.4 cut-off could be used to better predict non-response to treatment, maximizing the NPV (92% sensitivity and NPV, 85.2% specificity, and 84.6% PPV in the training group; 83.3% sensitivity, 80.0% NPV, 88.9% specificity, and 90.9% PPV in the validation group).
+10.1371/journal.pone.0072600.t003Table 3
+Sensitivity, specificity, and predictive values for the predictive models obtained. AUROC (validated)
+Sensitivity, % (validated)
+Specificity, % (validated)
+NPV, % (validated)
+PPV, % (validated) Discriminant model
+0.9444 (0.8148)
+75.0 (75.0)
+96.3 (88.9)
+81.0 (72.7)
+94.7 (90.0) Decision tree
+0.9072 (0.7361)
+95.2 (81.8)
+84.4 (70.0)
+96.4 (77.8)
+80.0 (75.0) AUROC, area under the receiver operating characteristic curve; PPV, positive predictive value; NPV, negative predictive value.
+Decision tree analysis
+The generated decision tree is shown in Figure 1. The variables that persisted in this predictive model in decreasing order of significance were: the IL28B polymorphism (G2 = 14.1257), the ALT ratio (G2 = 12.8909), the nHap_E1–E2 (G2 = 12.1293), and the Forns index (G2 = 6.6038). This model was able to predict treatment outcome accurately in the training group (AUROC = 0.9072, 84.4% specificity, 80.0% PPV, 95.2% sensitivity and 96.4% NPV) (Table 3). In the validation group these values decreased to 70% specificity, 75.0% PPV, 81.8% sensitivity and 77.8% NPV (AUROC = 0.7361).
+10.1371/journal.pone.0072600.g001Figure 1
+Decision tree model generated in the training group.
+The factors used for splitting and their cut-offs are indicated. Pie charts represent the rate of sustained virological response in white (the percentage is indicated) for each group of patients after each split. nHap_E1E2, number of haplotypes in the E1–E2 studied region; ALT quotient, square root of the alanine transaminase levels expressed as factor times upper limit of normal used in our center for males and females (41 and 31 U/L, respectively).
+The new standard of care for chronic HCV-1 infection based on the administration of an HCV-specific PI, PegIFN-α and RBV has increased the treatment success rate [3]. However, this triple drug combination is associated with additional side effects and markedly higher health care costs than for PegIFN-α and RBV. It is important to consider that about 50% of HCV-1 patients successfully respond to the dual therapy [6], [7], which still is the current standard of care for HCV-1 chronic infection in many countries where PI are still not available or remain unaffordable. Moreover, in those countries where PI are already being administered, the triple therapy may not be appropriate for all patients; naïve patients with the IL28B-C/C genotype and F0–F2 fibrosis stage may still be treated with PegIFN-α plus RBV [26]. Therefore, a reliable prediction of response to dual therapy at baseline would be highly beneficial for the development of more effective and personalized treatment selection algorithms in order to optimize both patient wellbeing and health care expense.
+Predictive Models of Response to PegIFN-α and RBV Therapy
+In this study, we developed two predictive models including host and viral variables that could help to improve treatment selection algorithms and assist clinicians in decision making.
+The predictive model obtained by discriminant analysis generated an aggregate probability of response to treatment based on the IL28B polymorphism, and serum GGT and ALT levels as host variables, as well as the E1–E2 number of haplotypes, the core amino acid substitution pattern, and the viral load asviral variables. This model, which could be easily implemented in a computer-based application, showed an AUROC of 0.9444 and a high PPV both in the training and the validation groups (94.7 and 90.0%, respectively), thus offering a reliable prediction of SVR. As predictive models obtained by decision tree analysis might be easier to implement and interpret in the clinical setting, a second predictive model was generated. However, this model showed a lower PPV (80% and 75% in the training and validation groups, respectively) and a worse reproducibility than the discriminant one.
+Other predictive models have been generated but only a few have been validated. To the best of our knowledge, those that have been developed for HCV-1b-infected patients showed a lower predictive accuracy than the ones described in this study. E. Martínez-Bauer et al. [27] developed a score based on multiple regression analysis including the AST/ALT ratio, cholesterol levels, the Forns index and the HCV viral load, and predicted SVR in a subgroup of patients with a high PPV (96% in the training group and 90% in the validation group); however, response could not be predicted in the group of patients with intermediate score values (50% of the total number of patients). M. Kurosaki et al. [28] developed a predictive model based on decision-tree analysis using the IL28B polymorphism, platelet levels, the viral load and the number of ISDR mutations, and predicted SVR with 78% sensitivity and 70% specificity. T. Takayama et al. [29] found that artificial neural networks analysis predicted SVR with more accuracy than regression analysis, and obtained a 59% sensitivity and 71% specificity based on a number of host variables and the HCV viral load. A. Tsubota et al. [30] developed a multiple regression model using the variables gender, age, platelet count, the IL28B and SLC9A1 (a major ribavirin transporter gene) polymorphisms, and viral load, achieving a 73.3% PPV (71.4% in the confirmatory group). D. Miki et al. [31], using a prediction score based on multiple regression analysis including the variables BMI, IL28B polymorphism, and plasminogen activator inhibitor-1 (PAI-1) levels were able to predict SVR with 63% PPV (46% in the validation cohort). Relevance of Host Factors for Treatment Outcome Prediction
+Among host-related factors associated with IFN-α-based treatment response, the polymorphisms upstream the IL28B gene constitute the strongest predictive factor of SVR identified so far [32]–[36]; however, European-American patients not having the most favourable rs12979860 genotype (C/C) still have approximately 40% chance of responding to therapy [34]. Similarly, this variable showed some limitations as a predictor in our study; among our population of Spanish patients only 33.3% were C/C, and while 87.5% of them responded to therapy, 31.3% of those who did not have this genotype also did. Consensus guidelines state that IL28B testing may be considered, but recommendations in favour of the use of this marker are not strong as its individual predictive value is low [3], [37].
+While it is well established that patients with an advanced fibrosis stage respond worse than those with null or mild fibrosis, liver biopsy had only been performed for 35.1% of the patients and we had to rely on the non-invasive Forns index. Whereas this fibrosis indicator is able to reliably differentiate between patients with and without advanced fibrosis, intermediate stages are not classifiable, which may explain why this variable was not as strongly associated with treatment outcome as expected.
+ALT levels were significantly higher in responder patients as previously reported [11], [38], while GGT levels were higher in non-responders. High GGT levels have been reported as an important independent predictor of treatment failure [39]–[41]. Higher GGT levels have been related to advanced fibrosis, steatosis and insulin resistance, which are more common among non-responders [42]. Furthermore, J. Everhart et al. suggested that GGT reflects a state of oxidative stress and that it should be regarded as a marker of disease activity, as GGT levels were found to predict both treatment response and liver disease outcomes [39].
+We also took into consideration other variables that had been previously associated with SVR such as age, gender, BMI, AST/ALT ratio, and cholesterol, platelets and IP-10 levels. However, none of them persisted in the final predictive models. IP-10 seems to be associated with a stronger first-phase decline in the HCV viral load, and low levels of this chemokine have been associated with SVR [17], [43], [44]. However, other authors have found an association with rapid virological response but not SVR [45]. Relevance of viral Factors for Treatment Outcome Prediction
+The nHap_E1–E2 is an indicator of viral genetic heterogeneity, and a high value at baseline has been previously associated with dual therapy failure [14], [46], [47], either through the pre-existence or the generation of drug-resistant viral variants. This variable showed a greater significance in the discriminant predictive model than the rest of the variables. To the best of our knowledge, this is the first validated predictive model that includes a marker for baseline HCV quasispecies heterogeneity. While studying this variable by cloning and sequencing is labour intensive, alternative methodologies can be used; among them, next generation sequencing techniques have the capacity to simultaneously analyse several samples, which can decrease associated costs [48].
+Baseline core amino acid substitutions at positions 70 (R by Q) and/or 91 (L by M) have been described as useful independent predictors of treatment failure in HCV-1b-infected patients [49]–[52]. However, this association has not been found in other studies [53] and it has been excluded from other predictive models [28], [54]. Several mechanisms have been proposed for the role of the Core protein in IFN resistance [55]–[57], and it has been suggested that this predictor could maintain its value in the era of triple therapy including Telaprevir [58].
+A low HCV load has been suggested as a predictor of SVR [42], but the threshold to distinguish between low and high viral loads in not well established [37]. In our study, the viral load was treated as a continuous variable and, despite being marginally significant in the bivariate analysis, it was considered to be relevant in the discriminant model.
+Finally, the association between the presence of ≥4 mutations in the ISDR and treatment response was initially described in Japanese patients [59] but it is less pronounced in European patients [60]. Only four patients in our study showed ≥4 mutations and all of them were responders, but this variable did not persist in any of the two generated models. Study Limitations
+Our study has several limitations: (i) recent studies have suggested that other single nucleotide polymorphisms in several human genes are associated to treatment outcome in HCV-1-infected patients, including the human leukocyte antigen C (HLA-C) and the killer cell immunoglobulin-like receptor (KIR) genes [61], the programmed cell death-1 (PD-1) gene [62], and the inosine triphosphatase (ITPA) gene [63]. These polymorphisms were not considered in our study and could have increased the accuracy of the predictive models; and (ii) the sample size was limited to 74 patients given the laboriousness of the assessment of HCV genetic heterogeneity in the E1–E2 region. However, a similar number of patients were included in each group, accounting for the fact that about 50% of patients infected by HCV-1b achieve an SVR. In addition, we performed a validation of the obtained models in a comparable group of patients in terms of ethnicity, clinical background and HCV subtype. Conclusions
+Achieving a rapid virological response at treatment week 4 has a high PPV (91%) for obtaining an SVR to PegIFN-α and RBV therapy, however, only 15–20% of persons with HCV-1 achieve this type of response [64], [65]. A sustained virological response to dual therapy could be predicted with a similarly high PPV (90.0% in the validation group) in our population of Spanish naïve HCV-1b-infected patients using the generated discriminant model, which was based on pretreatment host and viral variables. Those patients identified as responders could be treated with dual therapy with high chances of achieving an SVR; such a strategy could decrease the additional costs and side-effects associated with the triple therapy. Furthermore, most non-responders (88.9% specificity in the validation group) would also be identified as possible candidates for novel treatment regimens. Further studies should be performed to assess the applicability of the generated models to other populations."
