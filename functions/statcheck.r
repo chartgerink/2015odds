@@ -1,3 +1,5 @@
+library(stringr)
+
 # statcheck function adapted from the statcheck package by Michele Nuijten
 # see github.com/michelenuijten/statcheck
 statcheck <- function(
@@ -33,7 +35,7 @@ statcheck <- function(
     txt <- x[i]
     
     # identify sequence of results and extract their text
-    resLoc <- gregexpr("(genotype).*?rs[0-9]{1,10}.*?(associate|relate|correlate)[a-z]{1,}?\\s(with|to).*?(odds\\sratio|\\(?OR\\)?).*?[0-9]{2}\\%\\s(confidence\\sinterval|\\(?ci\\)?).*?(p.*?\\s?[0-9]?.[0-9]{1,5})",
+    resLoc <- gregexpr("((genotype).*?rs[0-9]{1,10}|rs[0-9]{1,10}.*?(genotype)).*?(associate|relate|correlate)[a-z]{1,}?\\s(with|to).*?(odds\\sratio|\\(?OR\\)?).*?[0-9]{2}\\%\\s(confidence\\sinterval|\\(?ci\\)?).*?(p.*?\\s?[0-9]?.[0-9]{1,5})",
                        txt,
                        ignore.case = TRUE)[[1]]
     resContext <- substring(txt,
